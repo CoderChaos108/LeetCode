@@ -40,12 +40,12 @@ class Solution {
             if(i==Math.max(a.size(),b.size())-1&&c!=0)
             s.add(0,c);
         }
-        ListNode head=new ListNode(s.get(0));
-        ListNode current=head;
+            currenta=l1;
+            currenta.val=s.get(0);
         for(int i=1;i<s.size();i++){
-            current.next=new ListNode(s.get(i));
-            current=current.next;
+            currenta.next=new ListNode(s.get(i));
+            currenta=currenta.next;
         }
-        return head;
+        return l1;
     }
 }
