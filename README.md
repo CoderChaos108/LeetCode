@@ -83,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CoderChaos108/LeetCode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/CoderChaos108/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/CoderChaos108/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CoderChaos108/LeetCode/tree/master/0029-divide-two-integers) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
