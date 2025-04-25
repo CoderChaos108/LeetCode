@@ -2,7 +2,7 @@ class Solution {
     public int countPrimes(int n) {
          boolean[] IsPrime=new boolean[n];
         int c=0;
-       for(int i=2;i<n;i++){
+       for(int i=2;i<Math.sqrt(n);i++){
             if(IsPrime[i]==true)
             continue;
            if(i==2||i==3||i==5||i==7)
@@ -13,8 +13,10 @@ class Solution {
                 IsPrime[i*j]=true;;
             }
            }
-           if(IsPrime[i]==false)
-           c++;
+       }
+       for(int i=2;i<IsPrime.length;i++){
+        if(IsPrime[i]==false)
+        c++;
        }
         return c;
     }
