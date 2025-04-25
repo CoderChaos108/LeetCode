@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/CoderChaos108/LeetCode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/CoderChaos108/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/CoderChaos108/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/CoderChaos108/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
+| [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
@@ -162,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
