@@ -3,10 +3,10 @@ class Solution {
         Set<Integer> set=new HashSet<Integer>();
         int l=0;
         for(int i:nums){
-            l=set.size();
-            set.add(i);
-            if(set.size()==l)
+            if(set.add(i)==false)
             return true;
+            else
+            set.add(i);
             
         }
         return false;
