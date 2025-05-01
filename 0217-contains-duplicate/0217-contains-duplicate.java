@@ -5,9 +5,6 @@ class Solution {
         for(int i:nums){
             if(set.add(i)==false)
             return true;
-            else
-            set.add(i);
-            
         }
         return false;
     }
