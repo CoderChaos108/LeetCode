@@ -1,8 +1,10 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]==nums[i+1])
+        HashMap hm=new HashMap<>();
+        for(int i:nums){
+            if(hm.containsKey(i)==false)
+            hm.put(i,1);
+            else
             return true;
         }
         return false;
