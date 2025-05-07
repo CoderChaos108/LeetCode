@@ -1,6 +1,7 @@
 class Solution {
     public String complexNumberMultiply(String num1, String num2) {
         int x=0;
+        StringBuilder sb=new StringBuilder();
         while(num1.charAt(x)!='+')
         x++;
         int a=Integer.valueOf(num1.substring(0,x));
@@ -10,10 +11,10 @@ class Solution {
         x++;
         int c=Integer.valueOf(num2.substring(0,x));
         int d=Integer.valueOf(num2.substring(x+1,num2.length()-1));
-        int Re=(a*c-b*d);
-        int Im=(a*d+b*c);
-        num1=String.valueOf(Re);
-        num2=String.valueOf(Im);
-        return (num1+"+"+Im+"i");
+        sb.append(String.valueOf(a*c-b*d));
+        sb.append("+");
+        sb.append(String.valueOf(a*d+b*c));
+        sb.append("i");
+        return sb.toString();
     }
 }
