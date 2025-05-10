@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/CoderChaos108/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/CoderChaos108/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/CoderChaos108/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/CoderChaos108/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CoderChaos108/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/CoderChaos108/LeetCode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/CoderChaos108/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
