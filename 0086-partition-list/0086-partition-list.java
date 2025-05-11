@@ -10,24 +10,29 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ArrayList<Integer> a=new ArrayList<Integer>();
+        if(head==null)
+        return null;
+        ListNode smallhead=new ListNode(1);
+        ListNode largehead=new ListNode(1);;
+        ListNode scurrent=smallhead;
+        ListNode lcurrent=largehead;
         ListNode current=head;
         while(current!=null){
-            if(current.val<x)
-            a.add(current.val);
+            if(current.val<x){
+                scurrent.next=new ListNode(current.val);
+                scurrent=scurrent.next;
+            }
+            else{
+                lcurrent.next=new ListNode(current.val);
+                lcurrent=lcurrent.next;
+            }
             current=current.next;
         }
-        current=head;
-        while(current!=null){
-            if(current.val>=x)
-            a.add(current.val);
-            current=current.next;
-        }
-        current=head;
-        for(int i:a){
-            current.val=i;
-            current=current.next;
-        }
-        return head;
+        largehead=largehead.next;
+        smallhead=smallhead.next;
+        if(smallhead==null)
+        return largehead;
+        scurrent.next=largehead;
+        return smallhead;
     }
 }
