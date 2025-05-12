@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/CoderChaos108/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/CoderChaos108/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/CoderChaos108/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/CoderChaos108/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/CoderChaos108/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/CoderChaos108/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/CoderChaos108/LeetCode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/CoderChaos108/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
