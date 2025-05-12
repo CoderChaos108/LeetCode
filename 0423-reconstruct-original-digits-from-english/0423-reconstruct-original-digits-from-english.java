@@ -1,29 +1,26 @@
-class Solution {
-    public String originalDigits(String s) {
-        HashMap<Character,Integer> hm=new HashMap<>();
-        for(int i=0;i<s.length();i++){
-            if(!hm.containsKey(s.charAt(i))){
-                hm.put(s.charAt(i),1);
-            }
-            else
-            hm.put(s.charAt(i),hm.get(s.charAt(i))+1);
+class Solution{
+    public String originalDigits(String s){
+        int[] count=new int[26];
+        for(char c:s.toCharArray()){
+            count[c-'a']++;
         }
-        int[] a=new int[10];
-       a[0]=hm.getOrDefault('z',0);
-       a[2]=hm.getOrDefault('w',0);
-       a[4]=hm.getOrDefault('u',0);
-       a[6]=hm.getOrDefault('x',0);
-       a[8]=hm.getOrDefault('g',0);
-       a[1]=hm.getOrDefault('o',a[0]+a[2]+a[4])-a[0]-a[2]-a[4];
-       a[3]=hm.getOrDefault('t',a[2]+a[8])-a[2]-a[8];
-       a[5]=hm.getOrDefault('f',a[4])-a[4];
-       a[7]=hm.getOrDefault('s',a[6])-a[6];
-       a[9]=hm.getOrDefault('i',a[5]+a[6]+a[8])-a[5]-a[6]-a[8];
-       StringBuilder sb=new StringBuilder();
-       for(int i=0;i<10;i++){
-        for(int j=0;j<a[i];j++)
-        sb.append(String.valueOf(i));
-       }
-       return sb.toString();
+        int[] digits=new int[10];
+        digits[0]=count['z'-'a'];
+        digits[2]=count['w'-'a'];
+        digits[4]=count['u'-'a'];
+        digits[6]=count['x'-'a'];
+        digits[8]=count['g'-'a'];
+        digits[3]=count['h'-'a']-digits[8];
+        digits[5]=count['f'-'a']-digits[4];
+        digits[7]=count['s'-'a']-digits[6];
+        digits[1]=count['o'-'a']-digits[0]-digits[2]-digits[4];
+        digits[9]=(count['n'-'a']-digits[1]-digits[7])/2;
+        StringBuilder result=new StringBuilder();
+        for(int i=0;i<10;i++){
+            while(digits[i]-->0){
+                result.append(i);
+            }
+        }
+        return result.toString();
     }
 }
