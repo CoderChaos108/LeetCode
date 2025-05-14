@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/CoderChaos108/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/CoderChaos108/LeetCode/tree/master/0481-magical-string) |
+| [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CoderChaos108/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/CoderChaos108/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/CoderChaos108/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/CoderChaos108/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/CoderChaos108/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 ## Enumeration
 |  |
 | ------- |
