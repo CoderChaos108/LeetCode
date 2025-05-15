@@ -1,5 +1,5 @@
 class Solution {
-    public int countDistinctIntegers(int[] nums) {
+    static int countDistinctIntegers(int[] nums) {
          Set<Integer> set=new HashSet<>();
          int x=0;
          for(int n:nums){
