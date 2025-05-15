@@ -1,8 +1,11 @@
 class Solution {
     static int rev(int n){
-        StringBuilder sb=new StringBuilder(String.valueOf(n));
-        sb.reverse();
-        return Integer.valueOf(sb.toString());
+        int x=0;
+        while(n!=0){
+            x=x*10+n%10;
+            n=n/10;
+        }
+        return x;
     }
     public int countDistinctIntegers(int[] nums) {
          Set<Integer> set=new HashSet<>();
