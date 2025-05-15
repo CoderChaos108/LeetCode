@@ -6,8 +6,6 @@ class Solution {
                 return false;
             }
         }
-        if(s.equals("Infinity")||s.equals("-Infinity")||s.equals("+Infinity"))
-        return false;
         try{
         Double d=Double.valueOf(s);
         }
