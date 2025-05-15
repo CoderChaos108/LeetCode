@@ -1,0 +1,19 @@
+class Solution {
+    public boolean isNumber(String s) {
+        for(int i=0;i<s.length();i++){
+            if(Character.isLetter(s.charAt(i))){
+                if(s.charAt(i)!='e'&&s.charAt(i)!='E')
+                return false;
+            }
+        }
+        if(s.equals("Infinity")||s.equals("-Infinity")||s.equals("+Infinity"))
+        return false;
+        try{
+        Double d=Double.valueOf(s);
+        }
+        catch(NumberFormatException e){
+            return false;
+        }
+        return true;
+    }
+}
