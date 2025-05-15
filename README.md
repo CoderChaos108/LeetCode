@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CoderChaos108/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/CoderChaos108/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/CoderChaos108/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/CoderChaos108/LeetCode/tree/master/0481-magical-string) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/CoderChaos108/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/CoderChaos108/LeetCode/tree/master/0223-rectangle-area) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
