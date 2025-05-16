@@ -1,5 +1,5 @@
 class Solution {
-    public int minSteps(String s, String t) {
+    static int minSteps(String s, String t) {
         int count=0;
         int[] fs=new int[26];
         int[] ft=new int[26];
