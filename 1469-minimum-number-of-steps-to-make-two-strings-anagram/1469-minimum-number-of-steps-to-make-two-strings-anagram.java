@@ -1,20 +1,15 @@
 class Solution {
     public int minSteps(String s, String t) {
         int count=0;
-        HashMap<Character,Integer> hm=new HashMap<>();
+        int[] fs=new int[26];
+        int[] ft=new int[26];
         for(int i=0;i<s.length();i++){
-            if(!hm.containsKey(s.charAt(i)))
-            hm.put(s.charAt(i),1);
-            else
-            hm.put(s.charAt(i),hm.get(s.charAt(i))+1);
+            fs[s.charAt(i)-'a']++;
+            ft[t.charAt(i)-'a']++;
         }
-        for(int i=0;i<t.length();i++){
-            if(hm.containsKey(t.charAt(i))&&hm.get(t.charAt(i))>0){
-                hm.put(t.charAt(i),hm.get(t.charAt(i))-1);
-            }
-            else
-            count++;
+        for(int i=0;i<26;i++){
+            count=count+Math.abs(fs[i]-ft[i]);
         }
-        return count;
+        return count/2;
     }
 }
