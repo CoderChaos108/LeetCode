@@ -10,27 +10,27 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(k==0)
-        return head;
+        int i=0;
         if(head==null)
-        return null;
-        ArrayList <Integer> a=new ArrayList<Integer>();
+        return head;
         ListNode current=head;
         while(current!=null){
-            a.add(current.val);
             current=current.next;
-        }   
-        int t=a.size();
-        k=k-(k/a.size())*a.size();
-        for(int i=1;i<=k;i++){
-            a.add(0,a.get(a.size()-i));
-            
+            i++;
         }
-        current=head;
-        for(int i=0;i<t;i++){
-            current.val=a.get(i);
-            current=current.next;
-        }
+        k=k%i;
+        if(k==0)
         return head;
+        current=head;
+        for(int j=0;j<i-k-1;j++){
+            current=current.next;
+        }
+        ListNode eden=current.next;
+        ListNode pointer=eden;
+        while(pointer.next!=null)
+        pointer=pointer.next;
+        current.next=null;
+        pointer.next=head;
+        return eden;
     }
 }
