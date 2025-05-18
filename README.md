@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/CoderChaos108/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/0118-pascals-triangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/CoderChaos108/LeetCode/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/CoderChaos108/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bucket Sort
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/CoderChaos108/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
