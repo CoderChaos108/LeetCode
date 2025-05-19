@@ -1,6 +1,6 @@
 class Solution {
     static boolean recur(int n,int i){
-        if(i==100)
+        if(i==10)
         return false;
         i++;
         int s=0;
