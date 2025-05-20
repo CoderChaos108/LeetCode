@@ -10,7 +10,7 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         HashSet<ListNode> set=new HashSet<>();
         ListNode current=headA;
         while(current!=null){
