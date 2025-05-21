@@ -10,7 +10,7 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode a=headA;
         ListNode b=headB;
         boolean lapa=false;
