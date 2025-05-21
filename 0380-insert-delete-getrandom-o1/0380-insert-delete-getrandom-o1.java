@@ -1,32 +1,34 @@
 class RandomizedSet {
-    HashMap<Integer,Integer> hm;
-    HashMap<Integer,Integer> valkey;
+    HashMap <Integer,Integer> hm;
+    ArrayList<Integer> list;
     public RandomizedSet() {
         hm=new HashMap<>();
-        valkey=new HashMap<>();
-    }   
+        list=new ArrayList<Integer>();
+    }
+    
     public boolean insert(int val) {
-        boolean notcontains=!valkey.containsKey(val);
+        boolean notcontains=!hm.containsKey(val);
         if(notcontains){
-            hm.put(hm.size(),val);
-            valkey.put(val,hm.size()-1);
+        hm.put(val,hm.size());
+        list.add(val);
         }
         return notcontains;
     }
     
     public boolean remove(int val) {
-        boolean contains=valkey.containsKey(val);
+        boolean contains=hm.containsKey(val);
         if(contains){
-            hm.put(valkey.get(val),hm.get(hm.size()-1));
-            hm.remove(hm.size()-1);
-            valkey.put((hm.get(valkey.get(val))),valkey.get(val));
-            valkey.remove(val);
+            hm.put(list.get(list.size()-1),hm.get(val));
+            list.set(hm.get(val),list.get(list.size()-1));
+            list.remove(list.size()-1);
+            hm.remove(val);
         }
         return contains;
-    } 
+    }
+    
     public int getRandom() {
         Random rand=new Random();
-        return hm.get(rand.nextInt(hm.size()));
+        return list.get(rand.nextInt(list.size()));
     }
 }
 
