@@ -10,18 +10,27 @@
  * }
  */
 public class Solution {
-    public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        HashSet<ListNode> set=new HashSet<>();
-        ListNode current=headA;
-        while(current!=null){
-            set.add(current);
-            current=current.next;
-        }
-        current=headB;
-        while(current!=null){
-            if(set.contains(current))
-            return current;
-            current=current.next;
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        ListNode a=headA;
+        ListNode b=headB;
+        boolean lapa=false;
+        boolean lapb=false;
+        while(a!=null||b!=null){
+            if(a==b)
+            return a;
+            if(a!=null)
+            a=a.next;
+            if(b!=null)
+            b=b.next;
+            if(a==null&&!lapa){
+            a=headB;
+            lapa=!lapa;
+            }
+            if(b==null&&!lapb){
+            b=headA;
+            lapb=!lapb;
+            }
+            
         }
         return null;
     }
