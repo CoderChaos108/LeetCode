@@ -15,16 +15,19 @@ class RandomizedSet {
         return notcontains;
     }
     
-    public boolean remove(int val) {
+        public boolean remove(int val){
         boolean contains=hm.containsKey(val);
         if(contains){
-            hm.put(list.get(list.size()-1),hm.get(val));
-            list.set(hm.get(val),list.get(list.size()-1));
+            int rem=hm.get(val);
+            int last=list.get(list.size()-1);
+            list.set(rem,last);
+            hm.put(last,rem);
             list.remove(list.size()-1);
             hm.remove(val);
         }
         return contains;
     }
+
     
     public int getRandom() {
         Random rand=new Random();
