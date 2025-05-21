@@ -1,9 +1,11 @@
 class RandomizedSet {
     HashMap <Integer,Integer> hm;
     ArrayList<Integer> list;
+    Random rand;
     public RandomizedSet() {
         hm=new HashMap<>();
         list=new ArrayList<Integer>();
+        rand=new Random();
     }
     
     public boolean insert(int val) {
@@ -27,10 +29,7 @@ class RandomizedSet {
         }
         return contains;
     }
-
-    
     public int getRandom() {
-        Random rand=new Random();
         return list.get(rand.nextInt(list.size()));
     }
 }
