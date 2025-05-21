@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/CoderChaos108/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/CoderChaos108/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/CoderChaos108/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/CoderChaos108/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/CoderChaos108/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CoderChaos108/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/CoderChaos108/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/CoderChaos108/LeetCode/tree/master/0289-game-of-life) |
