@@ -1,26 +1,25 @@
 class Solution {
-    public int minSteps(String s, String t) {         
-        HashMap<Character,Integer> hm=new HashMap<>();
-        int l=s.length();
+    public int minSteps(String s, String t) {
+        String k;
+        if(s.length()<t.length()){
+            k=t;
+            t=s;
+            s=k;
+        }
+        int[] as=new int[26];
+        int[] at=new int[26];
+        int l=t.length();
         for(int i=0;i<l;i++){
-            if(!hm.containsKey(s.charAt(i)))
-            hm.put(s.charAt(i),1);
-            else
-            hm.put(s.charAt(i),hm.get(s.charAt(i))+1);
+            as[s.charAt(i)-'a']++;
+            at[t.charAt(i)-'a']++;
+        }
+        l=s.length();
+        for(int i=t.length();i<l;i++){
+            as[s.charAt(i)-'a']++;
         }
         int c=0;
-        l=t.length();
-        for(int i=0;i<l;i++){
-            if(hm.containsKey(t.charAt(i))){
-            hm.put(t.charAt(i),hm.get(t.charAt(i))-1);
-            if(hm.get(t.charAt(i))==0)
-            hm.remove(t.charAt(i));
-            }
-            else
-            c++;
-        }
-        for(int i:hm.values())
-        c=c+i;
+        for(int i=0;i<26;i++)
+        c=c+Math.abs(as[i]-at[i]);
         return c;
     }
 }
