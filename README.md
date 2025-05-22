@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/CoderChaos108/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/CoderChaos108/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/CoderChaos108/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/CoderChaos108/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/CoderChaos108/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CoderChaos108/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CoderChaos108/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/CoderChaos108/LeetCode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/0242-valid-anagram) |
