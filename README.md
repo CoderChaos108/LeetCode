@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Counting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Binary Search
 |  |
