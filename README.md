@@ -360,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/CoderChaos108/LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
