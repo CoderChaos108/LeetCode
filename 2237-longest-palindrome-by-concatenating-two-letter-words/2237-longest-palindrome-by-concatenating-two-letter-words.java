@@ -1,5 +1,5 @@
 class Solution {
-    public static int longestPalindrome(String[] words) {
+    public  int longestPalindrome(String[] words) {
 
         StringBuilder sb=new StringBuilder();
         HashMap<String,Integer> hm=new HashMap<>();
