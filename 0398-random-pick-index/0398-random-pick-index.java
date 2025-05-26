@@ -1,22 +1,22 @@
 class Solution {
-    ArrayList<Integer> list;
-    int[] a;
-    int l;
     Random rand;
+    HashMap<Integer,ArrayList<Integer>> hm=new HashMap<>();
     public Solution(int[] nums) {
-        l=nums.length;
-        a=nums;
-        
+        int l=nums.length;
+        for(int i=0;i<l;i++){
+            if(!hm.containsKey(nums[i])){
+                ArrayList<Integer> list=new ArrayList<Integer>();
+                list.add(i);
+                hm.put(nums[i],list);
+            }
+            else
+            hm.get(nums[i]).add(i);
+        }
     }
     
     public int pick(int target) {
-            list=new ArrayList<>();
-            rand=new Random();
-            for(int i=0;i<l;i++){
-            if(a[i]==target)
-            list.add(i);
-        }
-            return list.get(rand.nextInt(list.size()));
+        rand=new Random();
+        return hm.get(target).get(rand.nextInt(hm.get(target).size()));     
     }
 }
 
