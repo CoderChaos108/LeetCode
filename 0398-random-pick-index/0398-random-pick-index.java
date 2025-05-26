@@ -2,6 +2,7 @@ class Solution {
     Random rand;
     HashMap<Integer,ArrayList<Integer>> hm=new HashMap<>();
     public Solution(int[] nums) {
+        rand=new Random();
         int l=nums.length;
         for(int i=0;i<l;i++){
             if(!hm.containsKey(nums[i])){
@@ -15,7 +16,7 @@ class Solution {
     }
     
     public int pick(int target) {
-        rand=new Random();
+        
         return hm.get(target).get(rand.nextInt(hm.get(target).size()));     
     }
 }
