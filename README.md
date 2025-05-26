@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/CoderChaos108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/CoderChaos108/LeetCode/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/CoderChaos108/LeetCode/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/CoderChaos108/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/CoderChaos108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/CoderChaos108/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/CoderChaos108/LeetCode/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/CoderChaos108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/CoderChaos108/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/CoderChaos108/LeetCode/tree/master/0398-random-pick-index) |
 ## Ordered Set
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/CoderChaos108/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/CoderChaos108/LeetCode/tree/master/0398-random-pick-index) |
 ## Interactive
 |  |
 | ------- |
