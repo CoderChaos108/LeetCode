@@ -5,22 +5,22 @@ class Solution {
         int m=1;
         f[0]=1;
         for(int i=1;i<=n;i++){
-        m=m*i;
-        f[i]=m;
+            m=m*i;
+            f[i]=m;
         }
         int sum=0;
-        HashSet<Integer> set=new HashSet<>();
+        ArrayList<Integer> list=new ArrayList<>();
         for(int j=0;j<n;j++){
             sum=0;
             for(int i=1;i<=n;i++){
-                if(set.contains(i))
+                if(list.contains(i))
                 continue;
                 sum=sum+f[n-1-s.length()];
                 if(sum==k){
                     s.append(String.valueOf(i));
-                    set.add(i);
+                    list.add(i);
                     for(int t=n;t>=1;t--){
-                        if(!set.contains(t)){
+                        if(!list.contains(t)){
                             s.append(String.valueOf(t));
                         }
                     }
@@ -28,7 +28,7 @@ class Solution {
                 }
                 if(sum>k){
                     s.append(String.valueOf(i));
-                    set.add(i);
+                    list.add(i);
                     k=k-sum+f[n-s.length()];
                     break;
                 }
