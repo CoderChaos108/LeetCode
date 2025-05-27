@@ -5,22 +5,22 @@ class Solution {
         int m=1;
         f[0]=1;
         for(int i=1;i<=n;i++){
-            m=m*i;
-            f[i]=m;
+        m=m*i;
+        f[i]=m;
         }
         int sum=0;
-        ArrayList<Integer> list=new ArrayList<>();
+        int[] used=new int[n+1];
         for(int j=0;j<n;j++){
             sum=0;
             for(int i=1;i<=n;i++){
-                if(list.contains(i))
+                if(used[i]==1)
                 continue;
                 sum=sum+f[n-1-s.length()];
                 if(sum==k){
                     s.append(String.valueOf(i));
-                    list.add(i);
+                    used[i]=1;
                     for(int t=n;t>=1;t--){
-                        if(!list.contains(t)){
+                        if(used[t]==0){
                             s.append(String.valueOf(t));
                         }
                     }
@@ -28,7 +28,7 @@ class Solution {
                 }
                 if(sum>k){
                     s.append(String.valueOf(i));
-                    list.add(i);
+                    used[i]=1;
                     k=k-sum+f[n-s.length()];
                     break;
                 }
