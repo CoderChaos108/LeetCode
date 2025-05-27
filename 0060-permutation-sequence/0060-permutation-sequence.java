@@ -1,5 +1,5 @@
 class Solution {
-    public String getPermutation(int n, int k) {
+    public static String getPermutation(int n, int k) {
         int[] f=new int[n+1];
         int m=1;
         f[0]=1;
