@@ -7,20 +7,26 @@ class Solution {
         int l=tokens.length;
         for(int i=0;i<l;i++){
             c=tokens[i];
-            if(c.equals("*")||c.equals("+")||c.equals("-")||c.equals("/"))
-            {
-            b=s.pop();
-                a=s.pop();
                 if(c.equals("+")){
+                b=s.pop();
+                a=s.pop();    
                 s.push(a+b);
                 }
-                else if(c.equals("-"))
+                else if(c.equals("-")){
+                 b=s.pop();
+                a=s.pop();
                 s.push(a-b);
-                else if(c.equals("*"))
+                }
+                else if(c.equals("*")){
+                    b=s.pop();
+                a=s.pop();
                 s.push(a*b);
-                else if(c.equals("/"))
+                }
+                else if(c.equals("/")){
+                    b=s.pop();
+                a=s.pop();
                 s.push(a/b);
-            }
+                }
             else{
                 s.push(Integer.valueOf(c));
             }
