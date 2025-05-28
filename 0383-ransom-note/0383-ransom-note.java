@@ -1,10 +1,12 @@
 class Solution {
     public boolean canConstruct(String s1, String s2) {
         int[] a=new int[26];
-        for(int i=0;i<s1.length();i++){
+        int l=s1.length();
+        for(int i=0;i<l;i++){
             a[s1.charAt(i)-'a']++;
         }
-        for(int i=0;i<s2.length();i++){
+        l=s2.length();
+        for(int i=0;i<l;i++){
             a[s2.charAt(i)-'a']--;
         }
         for(int i:a){
