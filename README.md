@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/CoderChaos108/LeetCode/tree/master/0481-magical-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/CoderChaos108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
 ## Randomized
 |  |
@@ -432,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CoderChaos108/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
