@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/CoderChaos108/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/CoderChaos108/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
