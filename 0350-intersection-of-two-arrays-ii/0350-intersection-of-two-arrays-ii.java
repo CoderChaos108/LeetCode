@@ -1,28 +1,25 @@
-class Solution{
-    public int[] intersect(int[] nums1,int[] nums2){
-        HashMap<Integer,Integer> hm1=new HashMap<>();
-        HashMap<Integer,Integer> hm2=new HashMap<>();
-        ArrayList<Integer> ans=new ArrayList<>();
-        for(int i:nums1){
-            hm1.put(i,hm1.getOrDefault(i,0)+1);
-        }
-        for(int i:nums2){
-            hm2.put(i,hm2.getOrDefault(i,0)+1);
-        }
-        for(int i:hm1.keySet()){
-            if(hm2.containsKey(i)){
-                int freq1=hm1.get(i);
-                int freq2=hm2.get(i);
-                int minFreq=Math.min(freq1,freq2);
-                for(int j=0;j<minFreq;j++){
-                    ans.add(i);
-                }
+class Solution {
+    public int[] intersect(int[] nums1, int[] nums2) {
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
+        ArrayList<Integer> list=new ArrayList<>();
+        int p=0;
+        int q=0;
+        while(p<nums1.length&&q<nums2.length){
+            if(nums1[p]==nums2[q]){
+                list.add(nums1[p]);
+                p++;
+                q++;
             }
+            else if(nums1[p]>nums2[q]){
+                q++;
+            }
+            else
+            p++;
         }
-        int size=ans.size();
-        int[] a=new int[size];
-        for(int i=0;i<size;i++){
-            a[i]=ans.get(i);
+        int[] a=new int[list.size()];
+        for(int i=0;i<a.length;i++){
+            a[i]=list.get(i);
         }
         return a;
     }
