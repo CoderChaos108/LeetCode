@@ -70,7 +70,7 @@ class Solution {
         }
         return x;
     }
-    public int calculate(String s) {
+    public static int calculate(String s) {
         s=preprocess('('+s+')');
         Stack<Character> st=new Stack<>();
         StringBuilder sb=new StringBuilder();
