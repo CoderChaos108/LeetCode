@@ -2,7 +2,6 @@ import java.util.*;
 class Solution {
     public static String preprocess(String input) {
         input=input.replaceAll("\\-\\(", "-1*(");
-        // Do NOT preprocess -5 to -1*5, as it breaks division and multiplication
         return input;
     }
     public static int parse(String s) {
@@ -16,7 +15,6 @@ class Solution {
                 continue;
             }
             if(s.charAt(i)=='-'&&(i==0||!Character.isDigit(s.charAt(i-1))&&s.charAt(i-1)!=')')){
-                // Handle negative numbers
                 sb.append('-');
                 i++;
                 while(i<l&&Character.isDigit(s.charAt(i))){
