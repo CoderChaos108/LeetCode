@@ -1,12 +1,10 @@
 class MyCircularQueue {
     ArrayList<Integer> list=new ArrayList<>();
     int m;
-    int f;
-    int r;
+    int f=0;
+    int r=0;
     public MyCircularQueue(int k) {
         m=k;
-        f=0;
-        r=0;
     }
     
     public boolean enQueue(int value) {
