@@ -1,10 +1,9 @@
 class MyCircularQueue {
-    ArrayList<Integer> list;
+    ArrayList<Integer> list=new ArrayList<>();
     int m;
     int f;
     int r;
     public MyCircularQueue(int k) {
-        list=new ArrayList<>();
         m=k;
         f=0;
         r=0;
