@@ -1,27 +1,22 @@
 class Solution {
     static ArrayList<int[]> intervals(ArrayList<int[]> list){
-        boolean oped=false;
-        int[] a=new int[2];
-        for(int i=1;i<list.size();i++){
-            int[] prev=list.get(i-1);
-            int[] curr=list.get(i);
-            ArrayList<Integer> p=new ArrayList<Integer>();
-            ArrayList<Integer> q=new ArrayList<Integer>();
-            for(int val:prev)
-            p.add(val);
-            for(int val:curr)
-            q.add(val);
-            if(q.get(0)<=p.get(1)){
-                a[0]=p.get(0);
-                a[1]=Math.max(p.get(1),q.get(1));
-                list.set(i,a);
-                list.remove(i-1);
-                oped=true;
+        boolean oped=true;
+        while(oped){
+            oped=false;
+            for(int i=1;i<list.size();i++){
+                int[] p=list.get(i-1);
+                int[] q=list.get(i);
+                if(q[0]<=p[1]){
+                    int[] a=new int[2];
+                    a[0]=p[0];
+                    a[1]=Math.max(p[1],q[1]);
+                    list.set(i,a);
+                    list.remove(i-1);
+                    oped=true;
+                    break;
+                }
             }
         }
-        if(oped)
-        return intervals(list);
-        else
         return list;
     }
 
@@ -43,10 +38,11 @@ class Solution {
         if(!added){
             a[x][0]=newInterval[0];
             a[x][1]=newInterval[1];
+            x++;
         }
 
         ArrayList<int[]> temp=new ArrayList<int[]>();
-        for(int i=0;i<a.length;i++)
+        for(int i=0;i<x;i++)
         temp.add(a[i]);
 
         ArrayList<int[]> re=intervals(temp);
