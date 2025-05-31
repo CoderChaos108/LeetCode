@@ -1,5 +1,5 @@
 class Solution {
-    public int arrayPairSum(int[] nums) {
+    public static int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
         int s=0;
         int l=nums.length-1;
