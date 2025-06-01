@@ -1,9 +1,15 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-        int limit=candyType.length/2;
-        HashSet<Integer> set=new HashSet<>();
-        for(int i:candyType)
-        set.add(i);
-        return Math.min(set.size(),limit);
+        Arrays.sort(candyType);
+        int l=candyType.length;
+        int limit=l/2;
+        int count=1;
+        for(int i=1;i<l;i++){
+            if(candyType[i]!=candyType[i-1])
+            count++;
+            if(count>=limit)
+            return limit;
+        }
+        return count;
     }
 }
