@@ -1,6 +1,5 @@
 class Solution {
     int a[];
-    int t[];
     int l;
     int r;
     int[] reset;
@@ -13,7 +12,6 @@ class Solution {
         a=nums.clone();
         l=a.length;
         rand=new Random();
-        t=new int[l];
     }
     
     public int[] reset() {
@@ -23,12 +21,11 @@ class Solution {
     public int[] shuffle() {
         for(int i=l;i>0;i--){
             r=rand.nextInt(i);
-            t[l-i]=a[r];
             temp=a[r];
             a[r]=a[i-1];
             a[i-1]=temp;
         }
-        return t;
+        return a;
     }
 }
 
