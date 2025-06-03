@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/CoderChaos108/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
+| [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/CoderChaos108/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/CoderChaos108/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0903-implement-rand10-using-rand7](https://github.com/CoderChaos108/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+| [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CoderChaos108/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/CoderChaos108/LeetCode/tree/master/0398-random-pick-index) |
 | [0903-implement-rand10-using-rand7](https://github.com/CoderChaos108/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+| [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 ## Ordered Set
 |  |
 | ------- |
