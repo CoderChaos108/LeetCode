@@ -9,15 +9,12 @@ public class Solution extends VersionControl {
         while(l<=r){
             m=l+(r-l)/2;
             if(isBadVersion(m)){
-            if (!isBadVersion(m-1)||m==1)
-            return m;
-            else
             r=m-1;
             }
             else
             l=m+1;
 
         }
-        return 0;
+        return l;
     }
 }
