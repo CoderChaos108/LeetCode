@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/CoderChaos108/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/CoderChaos108/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/CoderChaos108/LeetCode/tree/master/0056-merge-intervals) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/CoderChaos108/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/CoderChaos108/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/CoderChaos108/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CoderChaos108/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/CoderChaos108/LeetCode/tree/master/0189-rotate-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CoderChaos108/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/CoderChaos108/LeetCode/tree/master/0073-set-matrix-zeroes) |
