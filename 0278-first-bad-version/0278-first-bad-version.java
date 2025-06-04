@@ -6,7 +6,7 @@ public class Solution extends VersionControl {
         int l=1;
         int r=n;
         int m=0;
-        while(l>0){
+        while(l<=r){
             m=l+(r-l)/2;
             if(m==0)
             m=1;
