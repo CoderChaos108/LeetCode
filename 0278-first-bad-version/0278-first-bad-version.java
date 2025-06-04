@@ -8,8 +8,6 @@ public class Solution extends VersionControl {
         int m=0;
         while(l<=r){
             m=l+(r-l)/2;
-            if(m==0)
-            m=1;
             if(isBadVersion(m)){
             if (!isBadVersion(m-1)||m==1)
             return m;
