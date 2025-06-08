@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/CoderChaos108/LeetCode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/CoderChaos108/LeetCode/tree/master/0575-distribute-candies) |
 | [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/CoderChaos108/LeetCode/tree/master/0860-design-circular-queue) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/CoderChaos108/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Recursion
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/CoderChaos108/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 ## Enumeration
 |  |
