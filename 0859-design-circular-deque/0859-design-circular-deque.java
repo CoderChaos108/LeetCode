@@ -1,61 +1,105 @@
 class MyCircularDeque {
-    ArrayList<Integer> list;
-    int cap=0;
+
+    class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int val) {
+        this.val = val;
+    }
+}
+    ListNode head;
+    ListNode tail;
+    int c;
+    int s;
     public MyCircularDeque(int k) {
-        cap=k;
-        list=new ArrayList<>();
+        head=null;
+        tail=null;
+        s=0;
+        c=k;
     }
     
     public boolean insertFront(int value) {
-        if(list.size()==cap){
-         return false;   
+        if(s==c)
+        return false;
+        if(s==0){
+            head=new ListNode(value);
+            tail=head;
         }
-        list.add(0,value);
+        else{
+            ListNode temp=new ListNode(value);
+            temp.next=head;
+            head=temp;
+        }
+        s++;
         return true;
     }
     
     public boolean insertLast(int value) {
-        if(list.size()==cap){
-         return false;   
+        if(s==c)
+        return false;
+        if(s==0){
+            head=new ListNode(value);
+            tail=head;
         }
-        list.add(value);
+        else{
+            tail.next=new ListNode(value);
+            tail=tail.next;
+        }
+        s++;
         return true;
     }
     
     public boolean deleteFront() {
-        if(list.size()==0)
+        if(s==0)
         return false;
-        list.remove(0);
+        else if(s==1){
+            head=null;
+            tail=null;
+        }
+        else{
+        head=head.next;
+        }
+        s--;
         return true;
     }
     
     public boolean deleteLast() {
-        if(list.size()==0)
+        if(s==0)
         return false;
-        list.remove(list.size()-1);
+        else if(s==1){
+            head=null;
+            tail=null;
+        }
+        else{
+            ListNode current=head;
+            while(current.next!=tail)
+            current=current.next;
+            tail=current;
+        }
+        s--;
         return true;
     }
     
     public int getFront() {
-        if(list.size()==0)
+        if(s==0)
         return -1;
-        return list.get(0);
+        return head.val;
     }
     
     public int getRear() {
-        if(list.size()==0)
+        if(s==0)
         return -1;
-        return list.get(list.size()-1);
+        return tail.val;
     }
     
     public boolean isEmpty() {
-        if(list.size()==0)
+        if(s==0)
         return true;
         return false;
     }
     
     public boolean isFull() {
-        if(list.size()==cap)
+        if(s==c)
         return true;
         return false;
     }
