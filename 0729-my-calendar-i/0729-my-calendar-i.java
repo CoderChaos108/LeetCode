@@ -10,14 +10,8 @@ class MyCalendar {
             return true;
         }
         for(int[] a:list){
-            if(a[0]>=startTime&&a[0]<=endTime-1)
-            return false;
-            if(a[1]>=startTime&&a[1]<=endTime-1)
-            return false;
-            if(startTime>=a[0]&&startTime<=a[1])
-            return false;
-            if(endTime-1>=a[0]&&endTime-1<=a[1])
-            return false;          
+            if(startTime<=a[1]&&a[0]<endTime)
+            return false;      
         }
        
         int[] a={startTime,endTime-1};
