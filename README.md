@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/CoderChaos108/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/CoderChaos108/LeetCode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/0165-compare-version-numbers) |
