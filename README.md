@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderChaos108/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/CoderChaos108/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/CoderChaos108/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/CoderChaos108/LeetCode/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/CoderChaos108/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CoderChaos108/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/CoderChaos108/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CoderChaos108/LeetCode/tree/master/0202-happy-number) |
