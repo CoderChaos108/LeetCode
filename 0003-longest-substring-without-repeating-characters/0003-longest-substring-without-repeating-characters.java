@@ -3,9 +3,9 @@ class Solution {
         if(s.length()==0||s.length()==1)
         return s.length();
         StringBuilder sb=new StringBuilder("");
-        String longest="";
+        int l=0;
         int i=0;
-        while(i<s.length()-longest.length())
+        while(i<s.length()-l)
         {
             sb.append(s.charAt(i));
             HashSet<Character> set=new HashSet<>();
@@ -17,11 +17,11 @@ class Solution {
                 set.add(s.charAt(j));   
                 sb.append(s.charAt(j));
             }
-            if(sb.length()>longest.length())
-            longest=sb.toString();
+            if(sb.length()>l)
+            l=sb.length();
             sb.setLength(0);
             i++;
         }
-        return longest.length();
+        return l;
     }
 }
