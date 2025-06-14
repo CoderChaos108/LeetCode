@@ -1,33 +1,40 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
-        int l=0;
-        int r=0;
-        HashSet<List<Integer>> ans=new HashSet<>(); 
-        for(int i=0;i<nums.length-3;i++){
-            for(int j=i+1;j<nums.length-2;j++){
-                l=j+1;
-                r=nums.length-1;
-                int neotarget=target-nums[i]-nums[j];
+        List<List<Integer>> ans=new ArrayList<>();
+        int n=nums.length;
+        for(int i=0;i<n-3;i++){
+            if(i>0&&nums[i]==nums[i-1])
+            continue;
+            for(int j=i+1;j<n-2;j++){
+                if(j>i+1&&nums[j]==nums[j-1])
+                continue;
+                int l=j+1;
+                int r=n-1;
+                long neotarget=(long)target-(long)nums[i]-(long)nums[j];
                 while(l<r){
-                    if(neotarget>nums[l]+nums[r])
-                    l++;
-                    else if(neotarget<nums[l]+nums[r])
-                    r--;
+                    long sum=(long)nums[l]+(long)nums[r];
+                    if(sum<neotarget){
+                        l++;
+                    }
+                    else if(sum>neotarget){
+                        r--;
+                    }
                     else{
-                        ArrayList<Integer> list=new ArrayList<>();
+                        List<Integer> list=new ArrayList<>();
                         list.add(nums[i]);
                         list.add(nums[j]);
                         list.add(nums[l]);
                         list.add(nums[r]);
                         ans.add(list);
+                        while(l<r&&nums[l]==nums[l+1])l++;
+                        while(l<r&&nums[r]==nums[r-1])r--;
                         l++;
                         r--;
-                        continue;
                     }
                 }
             }
         }
-        return new ArrayList<>(ans);
+        return ans;
     }
 }
