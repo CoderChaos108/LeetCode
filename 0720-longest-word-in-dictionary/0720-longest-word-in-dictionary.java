@@ -7,17 +7,14 @@ class Solution {
         for(String s:words){
             if(s.length()==1||set.contains(s.substring(0,s.length()-1))){
                 set.add(s);
-                if(s.length()>=l){
+                if(s.length()>l){
                     l=s.length();
                     list.add(s);
                 }
             }
         }
-        
-       for(int i=list.size()-1;i>=0;i--){
-            if(i==0||list.get(i-1).length()<l)
-            return list.get(i);
-        }
+        if(list.size()==0)
         return "";
+        return list.get(list.size()-1);
     }
 }
