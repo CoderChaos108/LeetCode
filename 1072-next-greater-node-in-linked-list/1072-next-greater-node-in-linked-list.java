@@ -1,13 +1,3 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public int[] nextLargerNodes(ListNode head) {
         ListNode current=head;
@@ -21,19 +11,18 @@ class Solution {
             size++;
         }
         int[] ans=new int[size];
-        int l=0;
         int i=size-1;
-        head=prev;
-        while(head!=null){
-            if(l>head.val){
-                ans[i]=l;
-                i--;
+        ArrayList<Integer> monoStack=new ArrayList<>();
+        while(prev!=null){
+            while(!monoStack.isEmpty()&&monoStack.get(monoStack.size()-1)<=prev.val){
+                monoStack.remove(monoStack.size()-1);
             }
-            else{
-                i--;
-                l=head.val;
+            if(!monoStack.isEmpty()){
+                ans[i]=monoStack.get(monoStack.size()-1);
             }
-            head=head.next;
+            monoStack.add(prev.val);
+            i--;
+            prev=prev.next;
         }
         return ans;
     }
