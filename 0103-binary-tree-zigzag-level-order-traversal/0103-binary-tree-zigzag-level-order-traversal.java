@@ -26,7 +26,7 @@ class Solution {
         ans.add(listTemp);
         int x=0;
         while(true){
-            List<Integer> temp=new ArrayList<>();
+            List<Integer> temp=new LinkedList<>();
             int t=list.size()-1;
             if(lr){
                 while(x<=t){
@@ -46,11 +46,11 @@ class Solution {
             else{
                 while(x<=t){
             if(list.get(x).left!=null){
-            temp.add(0,list.get(x).left.val);
+            temp.addFirst(list.get(x).left.val);
             list.add(list.get(x).left);
             }
             if(list.get(x).right!=null){
-            temp.add(0,list.get(x).right.val);
+            temp.addFirst(list.get(x).right.val);
             list.add(list.get(x).right);
             }
             x++;            
