@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/CoderChaos108/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/CoderChaos108/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3379-score-of-a-string) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0898-transpose-matrix) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/CoderChaos108/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Enumeration
 |  |
 | ------- |
