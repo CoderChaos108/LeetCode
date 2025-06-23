@@ -13,8 +13,6 @@ class Solution {
             h++;
             else
             h--;
-            if(Math.abs(h)+(Math.abs(v))>l-1-i)
-            return false;
         }
         if(v==0&&h==0)
         return true;
