@@ -5,14 +5,16 @@ class Solution {
         int l=moves.length();
         for(int i=0;i<l;i++){
             char c=moves.charAt(i);
-            if(c=='U')
-            v++;
-            else if(c=='D')
-            v--;
-            else if(c=='R')
-            h++;
-            else
-            h--;
+            switch(c){
+                case 'U':v++;
+                break;
+                case 'D':v--;
+                break;
+                case 'R':h++;
+                break;
+                case 'L':h--;
+                break;
+            }
         }
         if(v==0&&h==0)
         return true;
