@@ -24,7 +24,8 @@ public class NestedIterator implements Iterator<Integer> {
         p=0;
     }
     public void listMaker(List<NestedInteger> nestList){
-        for(int i=0;i<nestList.size();i++){
+        int l=nestList.size();
+        for(int i=0;i<l;i++){
             if(nestList.get(i).isInteger())
             list.add(nestList.get(i).getInteger());
             else{
