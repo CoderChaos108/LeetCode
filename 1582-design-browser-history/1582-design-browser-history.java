@@ -1,28 +1,30 @@
 class BrowserHistory {
-    List<String> list;
-    int p;
+    Stack<String> forward;
+    Stack<String> backward;
     public BrowserHistory(String homepage) {
-        list=new ArrayList<>();
-        list.add(homepage);
-        p=0;
+        forward=new Stack<>();
+        backward=new Stack<>();
+        backward.push(homepage);
     }
     
     public void visit(String url) {
-        list=list.subList(0,p+1);
-        list.add(url);
-        p=list.size()-1;
+        forward.clear();
+        backward.push(url);
     }
     
     public String back(int steps) {
-        steps=Math.min(steps,p);
-        p=p-steps;
-        return list.get(p);
+        steps=Math.min(steps,backward.size()-1);
+        for(int i=0;i<steps;i++)
+        forward.push(backward.pop());
+        return backward.peek();
     }
     
     public String forward(int steps) {
-        steps=Math.min(steps,list.size()-1-p);
-        p=p+steps;
-        return list.get(p);
+        steps=Math.min(steps,forward.size());
+        for(int i=0;i<steps;i++){
+            backward.push(forward.pop());
+        }
+        return backward.peek();
     }
 }
 
