@@ -20,14 +20,13 @@ class Solution {
             int i=0;
             while(list.get(i)!=node.val)
             i++;
-            List<Integer> pre=new ArrayList<>();
-            List<Integer> post=new ArrayList<>();
+            List<Integer> pre=list.subList(0,i);
+            List<Integer> post=list.subList(i+1,list.size());
             TreeNode l=null;
             TreeNode r=null;
             boolean lnfound=true;
             boolean rnfound=true;
             for(int j=0;j<i;j++){
-                pre.add(list.get(j));
                 if(list.get(j)==preorder[p]&&lnfound){
                 l=new TreeNode(list.get(j));
                 node.left=l;
@@ -38,7 +37,6 @@ class Solution {
             if(!lnfound)
             build(l,pre,preorder);
             for(int j=i+1;j<list.size();j++){
-            post.add(list.get(j));
             if(list.get(j)==preorder[p]&&rnfound){
                 r=new TreeNode(list.get(j));
                 node.right=r;
