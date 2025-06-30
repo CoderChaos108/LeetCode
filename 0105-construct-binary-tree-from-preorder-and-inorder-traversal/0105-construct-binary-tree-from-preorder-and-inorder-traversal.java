@@ -26,26 +26,18 @@ class Solution {
             TreeNode r=null;
             boolean lnfound=true;
             boolean rnfound=true;
-            for(int j=0;j<i;j++){
-                if(list.get(j)==preorder[p]&&lnfound){
-                l=new TreeNode(list.get(j));
-                node.left=l;
-                p++;
-                lnfound=false;
-                }
-            }
-            if(!lnfound)
+            if(pre.size()!=0){
+            l=new TreeNode(preorder[p]);
+            p++;
+            node.left=l;
             build(l,pre,preorder);
-            for(int j=i+1;j<list.size();j++){
-            if(list.get(j)==preorder[p]&&rnfound){
-                r=new TreeNode(list.get(j));
-                node.right=r;
+            }
+            if(post.size()!=0){
+                r=new TreeNode(preorder[p]);
                 p++;
-                rnfound=false;
-            }
-            }
-            if(!rnfound)
+                node.right=r;
             build(r,post,preorder);
+            }
         }
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
