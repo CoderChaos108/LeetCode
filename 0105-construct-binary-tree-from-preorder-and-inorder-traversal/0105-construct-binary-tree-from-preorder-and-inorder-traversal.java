@@ -15,26 +15,31 @@
  */
 class Solution {
     int p;
-    void build(TreeNode node, List<Integer> inorder, int[] preorder) {
-    if (inorder.size() == 0) return;
-
-    int index = inorder.indexOf(node.val);
-    List<Integer> leftInorder = inorder.subList(0, index);
-    List<Integer> rightInorder = inorder.subList(index + 1, inorder.size());
-
-    if (!leftInorder.isEmpty()) {
-        TreeNode left = new TreeNode(preorder[p++]);
-        node.left = left;
-        build(left, leftInorder, preorder);
+    void build(TreeNode node,List<Integer> list,int[] preorder){
+        if(list.size()!=0){
+            int i=0;
+            while(list.get(i)!=node.val)
+            i++;
+            List<Integer> pre=list.subList(0,i);
+            List<Integer> post=list.subList(i+1,list.size());
+            TreeNode l=null;
+            TreeNode r=null;
+            boolean lnfound=true;
+            boolean rnfound=true;
+            if(pre.size()!=0){
+            l=new TreeNode(preorder[p]);
+            p++;
+            node.left=l;
+            build(l,pre,preorder);
+            }
+            if(post.size()!=0){
+                r=new TreeNode(preorder[p]);
+                p++;
+                node.right=r;
+            build(r,post,preorder);
+            }
+        }
     }
-
-    if (!rightInorder.isEmpty()) {
-        TreeNode right = new TreeNode(preorder[p++]);
-        node.right = right;
-        build(right, rightInorder, preorder);
-    }
-}
-
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         p=1;
         TreeNode root=new TreeNode(preorder[0]);
