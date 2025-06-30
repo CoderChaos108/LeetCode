@@ -15,39 +15,34 @@
  */
 class Solution {
     int p;
-    void build(TreeNode node,List<Integer> list,int[] preorder){
-        if(list.size()!=0){
-            int i=0;
-            while(list.get(i)!=node.val)
-            i++;
-            List<Integer> pre=list.subList(0,i);
-            List<Integer> post=list.subList(i+1,list.size());
-            TreeNode l=null;
-            TreeNode r=null;
-            boolean lnfound=true;
-            boolean rnfound=true;
-            if(pre.size()!=0){
-            l=new TreeNode(preorder[p]);
+    HashMap<Integer,Integer> hm;
+    void build(TreeNode node,int west,int east,int[] preorder){
+        if(west!=east){
+            int i=hm.get(node.val);
+            if(west!=i){
+            TreeNode l=new TreeNode(preorder[p]);
             p++;
             node.left=l;
-            build(l,pre,preorder);
+            build(l,west,i-1,preorder);
             }
-            if(post.size()!=0){
-                r=new TreeNode(preorder[p]);
+            if(east!=i){
+                TreeNode r=new TreeNode(preorder[p]);
                 p++;
                 node.right=r;
-            build(r,post,preorder);
+            build(r,i+1,east,preorder);
             }
         }
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         p=1;
+        hm=new HashMap<>();
+        for(int i=0;i<inorder.length;i++)
+        hm.put(inorder[i],i);
         TreeNode root=new TreeNode(preorder[0]);
         List<Integer> ino=new ArrayList<>();
         for(int k:inorder)
         ino.add(k);
-        build(root,ino,preorder);
+        build(root,0,preorder.length-1,preorder);
         return root;
-
     }
 }
