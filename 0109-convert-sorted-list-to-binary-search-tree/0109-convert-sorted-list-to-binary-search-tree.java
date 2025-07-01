@@ -24,22 +24,31 @@
  * }
  */
 class Solution {
-    List<Integer> list;
-    public TreeNode build(int west,int east){
-        if(west>east)
+    public TreeNode build(ListNode head){
+        if(head==null)
         return null;
-        int n=west+(east-west)/2;
-        TreeNode node=new TreeNode(list.get(n));
-        node.left=build(west,n-1);
-        node.right=build(n+1,east);
+        if(head.next==null){
+            return new TreeNode(head.val);
+        }
+        ListNode current=head;
+        int size=0;
+        while(current!=null){
+            size++;
+            current=current.next;
+        }
+        current=head;
+        ListNode mid;
+        for(int i=0;i<size/2-1;i++){
+            current=current.next;
+        }
+        mid=current.next;
+        current.next=null;
+        TreeNode node=new TreeNode(mid.val);
+        node.left=build(head);
+        node.right=build(mid.next);
         return node;
     }
     public TreeNode sortedListToBST(ListNode head) {
-        list=new ArrayList<>();
-        while(head!=null){
-            list.add(head.val);
-            head=head.next;
-        }
-        return build(0,list.size()-1);
+        return build(head);
     }
 }
