@@ -4,10 +4,14 @@ class Solution {
     Random rand;
     public static void sort(int[] nums){
         if(nums.length!=0){
+        int len=nums.length;
+        int s=nums[0];
         int l=nums[0];
-        for(int i:nums)
+        for(int i:nums){
         l=Math.max(l,i);
-        if(l>1000000)
+        s=Math.min(s,i);
+        }
+        if(l>1000000||(l-s)>len)
         Arrays.sort(nums);
         else{
         int[] f=new int[l+1];
@@ -15,8 +19,7 @@ class Solution {
             f[i]++;
         }
         int x=0;
-        int len=nums.length;
-        for(int i=0;i<=l;i++){
+        for(int i=s;i<=l;i++){
             if(f[i]>0){
                 nums[x]=i;
                 x++;
