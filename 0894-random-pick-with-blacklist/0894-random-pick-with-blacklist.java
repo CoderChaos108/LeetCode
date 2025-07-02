@@ -8,16 +8,6 @@ class Solution {
         hm=new HashMap<>();
         int p=0;
         int q=a.length-1;
-        if(a.length==1){
-            if(a[0]==n-1)
-            n--;
-            else{
-                hm.put(a[0],n-1);
-                n--;
-            }
-        }
-        else{
-
         while(p<=q){
             if(a[q]==n-1){
                 q--;
@@ -27,7 +17,6 @@ class Solution {
             hm.put(a[p],n-1);
             p++;
             n--;
-        }
         }
         k=n;
 
