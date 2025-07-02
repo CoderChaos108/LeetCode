@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/CoderChaos108/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0898-transpose-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0898-transpose-matrix) |
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/CoderChaos108/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/CoderChaos108/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
+| [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0913-random-flip-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0913-random-flip-matrix) |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Two Pointers
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/CoderChaos108/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0913-random-flip-matrix) |
@@ -643,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/CoderChaos108/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/CoderChaos108/LeetCode/tree/master/0398-random-pick-index) |
+| [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/CoderChaos108/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0913-random-flip-matrix) |
