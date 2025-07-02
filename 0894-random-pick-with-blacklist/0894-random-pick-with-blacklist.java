@@ -2,8 +2,31 @@ class Solution {
     HashMap<Integer,Integer> hm;
     int k;
     Random rand;
+    public static void sort(int[] nums){
+        if(nums.length!=0){
+        int l=nums[0];
+        for(int i:nums)
+        l=Math.max(l,i);
+        if(l>1000000)
+        Arrays.sort(nums);
+        else{
+        int[] f=new int[l+1];
+        for(int i:nums){
+            f[i]++;
+        }
+        int x=0;
+        int len=nums.length;
+        for(int i=0;i<=l;i++){
+            if(f[i]>0){
+                nums[x]=i;
+                x++;
+            }
+        }
+        }
+        }
+    }
     public Solution(int n, int[] a) {
-        Arrays.sort(a);
+        sort(a);
         rand=new Random();
         hm=new HashMap<>();
         int p=0;
