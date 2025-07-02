@@ -11,7 +11,7 @@ class Solution {
         l=Math.max(l,i);
         s=Math.min(s,i);
         }
-        if(l>1000000||(l-s)>len)
+        if(l>10000000||(l-s)>len)
         Arrays.sort(nums);
         else{
         int[] f=new int[l+1];
