@@ -11,6 +11,14 @@ class Solution {
         l=Math.max(l,i);
         s=Math.min(s,i);
         }
+        boolean sorted=true;
+        for(int i=1;i<len;i++){
+            if(nums[i]<nums[i-1]){
+                sorted=false;
+                break;
+            }
+        }
+        if(!sorted){
         if(l>10000000||(l-s)>len)
         Arrays.sort(nums);
         else{
@@ -24,6 +32,7 @@ class Solution {
                 nums[x]=i;
                 x++;
             }
+        }
         }
         }
         }
