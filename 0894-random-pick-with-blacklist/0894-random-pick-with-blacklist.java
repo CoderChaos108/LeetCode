@@ -19,14 +19,11 @@ class Solution {
         else{
 
         while(p<=q){
-            boolean removed=false;
-            while(p<=q&&a[q]==n-1){
-                n--;
+            if(a[q]==n-1){
                 q--;
-                removed=true;
+                n--;
+                continue;
             }
-            if(removed)
-            continue;
             hm.put(a[p],n-1);
             p++;
             n--;
