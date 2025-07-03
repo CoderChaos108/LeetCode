@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0936-rle-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0936-rle-iterator) |
 | [1072-next-greater-node-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CoderChaos108/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0913-random-flip-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0913-random-flip-matrix) |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/CoderChaos108/LeetCode/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/CoderChaos108/LeetCode/tree/master/0649-dota2-senate) |
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderChaos108/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Prefix Sum
