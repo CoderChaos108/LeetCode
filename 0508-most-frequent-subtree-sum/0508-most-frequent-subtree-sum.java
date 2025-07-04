@@ -28,12 +28,12 @@ class Solution {
         hm=new HashMap<>();
         sumf(root);
         int l=0;
-        for(int i:hm.keySet()){
-            l=Math.max(l,hm.get(i));
+        for(int i:hm.values()){
+            l=Math.max(l,i);
         }
         int n=0;
-        for(int i:hm.keySet()){
-            if(hm.get(i)==l)
+        for(int i:hm.values()){
+            if(i==l)
             n++;
         }
         int[] a=new int[n];
