@@ -1,33 +1,49 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    HashMap<Integer, Integer> hm = new HashMap<>();
-    int maxFreq = 0;
-
-    public int sumf(TreeNode node) {
-        if (node == null) return 0;
-
-        int left = sumf(node.left);
-        int right = sumf(node.right);
-        int sum = node.val + left + right;
-
-        int freq = hm.getOrDefault(sum, 0) + 1;
-        hm.put(sum, freq);
-
-        maxFreq = Math.max(maxFreq, freq);
-        return sum;
+    HashMap<Integer,Integer> hm;
+    public int sumf(TreeNode node){
+        if(node==null)
+        return 0;
+        int lf=sumf(node.left);
+        int rf=sumf(node.right);
+        int s=node.val+lf+rf;
+        hm.put(s,hm.getOrDefault(s,0)+1);
+        return s;
     }
-
     public int[] findFrequentTreeSum(TreeNode root) {
-        if (root == null) return new int[0];
-
+        hm=new HashMap<>();
         sumf(root);
-
-        List<Integer> result = new ArrayList<>();
-        for (Map.Entry<Integer, Integer> entry : hm.entrySet()) {
-            if (entry.getValue() == maxFreq) {
-                result.add(entry.getKey());
+        int l=0;
+        for(int i:hm.values()){
+            l=Math.max(l,i);
+        }
+        int n=0;
+        for(int i:hm.values()){
+            if(i==l)
+            n++;
+        }
+        int[] a=new int[n];
+        int x=0;
+        for(int i:hm.keySet()){
+            if(hm.get(i)==l){
+                a[x]=i;
+                x++;
             }
         }
-
-        return result.stream().mapToInt(i -> i).toArray();
+        return a;
     }
 }
