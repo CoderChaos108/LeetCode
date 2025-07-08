@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/CoderChaos108/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/CoderChaos108/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
