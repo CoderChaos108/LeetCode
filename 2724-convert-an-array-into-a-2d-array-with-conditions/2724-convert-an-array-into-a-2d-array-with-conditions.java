@@ -1,23 +1,21 @@
 class Solution {
     public List<List<Integer>> findMatrix(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
-        Arrays.sort(nums);
-        int k=nums[0];
-        int c=0;
+        HashMap<Integer,Integer> hm=new HashMap<>();
         for(int i:nums){
-            if(i!=k){
-                c=0;
-                k=i;
+            hm.put(i,hm.getOrDefault(i,0)+1);
+        }
+        for(int i:hm.keySet()){
+            int f=hm.get(i);
+            for(int j=0;j<f;j++){
+                if(ans.size()<=j){
+                    List<Integer> list=new ArrayList<>();
+                    list.add(i);
+                    ans.add(list);
+                }
+                else
+                ans.get(j).add(i);
             }
-            if(ans.size()<=c){
-                ArrayList<Integer> list=new ArrayList<>();
-                list.add(i);
-                ans.add(list);
-            }
-            else{
-                ans.get(c).add(i);
-            }
-            c++;
         }
         return ans;
     }
