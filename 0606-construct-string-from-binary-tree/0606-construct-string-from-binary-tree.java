@@ -19,13 +19,13 @@ class Solution {
         return "";
         StringBuilder sb=new StringBuilder();
         sb.append(String.valueOf(node.val));
-        sb.append("("+build(node.left)+")");
-        sb.append("("+build(node.right)+")");
-        if(sb.charAt(sb.length()-2)=='('){
-            sb.setLength(sb.length()-2);
-        }
-        if(sb.charAt(sb.length()-2)=='('){
-            sb.setLength(sb.length()-2);
+        if(node.left==null&&node.right==null)
+        return sb.toString();
+        else{
+            sb.append("("+build(node.left)+")");
+            if(node.right!=null){
+                sb.append("("+build(node.right)+")");
+            }
         }
         return sb.toString();
     }
