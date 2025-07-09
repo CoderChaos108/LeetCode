@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
