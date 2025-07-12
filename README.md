@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CoderChaos108/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/CoderChaos108/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/CoderChaos108/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/CoderChaos108/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
