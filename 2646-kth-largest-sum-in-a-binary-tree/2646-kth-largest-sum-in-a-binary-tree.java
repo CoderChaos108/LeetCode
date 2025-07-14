@@ -15,6 +15,13 @@
  */
 class Solution {
     List<Long> list;
+    void insert(long val) {
+    int index=Collections.binarySearch(list, val);
+    if(index<0)
+    index=-index-1;
+    list.add(index,val);
+}
+
     public long kthLargestLevelSum(TreeNode root, int k) {
         Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
@@ -30,9 +37,8 @@ class Solution {
                 if(node.right!=null)
                 q.add(node.right);
             }
-            list.add(s);
+            insert(s);
         }
-        Collections.sort(list);
         if(list.size()<k)
         return -1;
         return list.get(list.size()-k);
