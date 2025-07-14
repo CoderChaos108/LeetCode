@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/CoderChaos108/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CoderChaos108/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
 | [1731-even-odd-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1731-even-odd-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CoderChaos108/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/CoderChaos108/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1731-even-odd-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CoderChaos108/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
