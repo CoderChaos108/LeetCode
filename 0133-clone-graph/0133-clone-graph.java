@@ -23,13 +23,12 @@ class Solution {
     public Node clone(Node node){
         if(node==null)
         return node;
+        if(hm.containsKey(node))
+        return hm.get(node);
         Node neoNode=new Node(node.val);
         hm.put(node,neoNode);
         for(Node n:node.neighbors){
-            if(!hm.containsKey(n))
             neoNode.neighbors.add(clone(n));
-            else
-            neoNode.neighbors.add(hm.get(n));
         }
         return neoNode;
     }
