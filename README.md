@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/CoderChaos108/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderChaos108/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CoderChaos108/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -952,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
