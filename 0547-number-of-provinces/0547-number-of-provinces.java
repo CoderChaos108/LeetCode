@@ -3,7 +3,7 @@ class Solution {
     public int check(int n,int[][] m){
         if(seen.add(n)){
             for(int j=0;j<m[0].length;j++){
-                if(m[n][j]==1)
+                if(m[n][j]==1&&!seen.contains(j))
                 check(j,m);
             }
             return 1;
