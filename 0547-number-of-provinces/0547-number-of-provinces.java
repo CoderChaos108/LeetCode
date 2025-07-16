@@ -12,9 +12,10 @@ class Solution {
         return 0;
     }
     public int findCircleNum(int[][] isConnected) {
+        int l=isConnected.length;
         seen=new HashSet<>(); 
         int c=0;
-        for(int i=0;i<isConnected.length;i++)
+        for(int i=0;i<l;i++)
         c=c+check(i,isConnected);
         return c;
     }
