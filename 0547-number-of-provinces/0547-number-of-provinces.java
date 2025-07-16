@@ -1,29 +1,21 @@
 class Solution {
-    HashMap<Integer,List<Integer>> hm;
     HashSet<Integer> seen;
-    public int check(int n){
+    public int check(int n,int[][] m){
         if(seen.add(n)){
-            for(int i:hm.get(n))
-            check(i);
+            for(int j=0;j<m[0].length;j++){
+                if(m[n][j]==1)
+                check(j,m);
+            }
             return 1;
         }
         else
         return 0;
     }
     public int findCircleNum(int[][] isConnected) {
-        seen=new HashSet<>();
-         hm=new HashMap<>();
-        for(int i=0;i<isConnected.length;i++){
-            List<Integer> list=new ArrayList<>();
-            for(int j=0;j<isConnected[i].length;j++){
-                if(isConnected[i][j]==1)
-                list.add(j);
-            }
-            hm.put(i,list);
-        }
+        seen=new HashSet<>(); 
         int c=0;
         for(int i=0;i<isConnected.length;i++)
-        c=c+check(i);
+        c=c+check(i,isConnected);
         return c;
     }
 }
