@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CoderChaos108/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/CoderChaos108/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/CoderChaos108/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CoderChaos108/LeetCode/tree/master/0217-contains-duplicate) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/CoderChaos108/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/CoderChaos108/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/CoderChaos108/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CoderChaos108/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/CoderChaos108/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CoderChaos108/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/CoderChaos108/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/CoderChaos108/LeetCode/tree/master/0547-number-of-provinces) |
 ## Hash Function
 |  |
@@ -945,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/CoderChaos108/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/CoderChaos108/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/CoderChaos108/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
