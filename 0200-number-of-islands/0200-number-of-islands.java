@@ -1,10 +1,10 @@
 class Solution {
-    HashSet<List<Integer>> seen;
+    boolean[][] seen;
     int m,n;
     public void check(int i,int j,char[][] a){
-        if(a[i][j]=='0'||seen.contains(Arrays.asList(i,j)))
+        if(a[i][j]=='0'||seen[i][j])
         return;
-        seen.add(Arrays.asList(i,j));
+        seen[i][j]=true;
         if(i+1<m)
         check(i+1,j,a);
         if(i-1>=0)
@@ -16,12 +16,12 @@ class Solution {
     }
     public int numIslands(char[][] grid) {
          m=grid.length;
-        seen=new HashSet<>();
-        n=grid[0].length;
+         n=grid[0].length;
+        seen=new boolean[m][n];
         int c=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j]=='1'&&!seen.contains(Arrays.asList(i,j))){
+                if(grid[i][j]=='1'&&!seen[i][j]){
                 c++;
                 check(i,j,grid);
                 }
