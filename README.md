@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/CoderChaos108/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/CoderChaos108/LeetCode/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/CoderChaos108/LeetCode/tree/master/0481-magical-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CoderChaos108/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/CoderChaos108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CoderChaos108/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -980,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/CoderChaos108/LeetCode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CoderChaos108/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/CoderChaos108/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/CoderChaos108/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/CoderChaos108/LeetCode/tree/master/0547-number-of-provinces) |
@@ -1012,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
