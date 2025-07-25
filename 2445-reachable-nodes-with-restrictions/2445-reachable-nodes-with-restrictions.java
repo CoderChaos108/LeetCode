@@ -1,40 +1,28 @@
 class Solution {
     int c;
     boolean[] res;
-    HashMap<Integer,List<Integer>> hm=new HashMap<>();
-    public void dfs(int node){
-        if(res[node])
-        return;
+    public void dfs(int node,List<Integer>[] a){
+        if(res[node])return;
         c++;
         res[node]=true;
-        for(int i:hm.get(node)){
-            dfs(i);
-        }
+        for(int i:a[node])
+        dfs(i,a);
     }
-    public int reachableNodes(int n, int[][] edges, int[] restricted) {
+    public int reachableNodes(int n,int[][] edges,int[] restricted) {
         c=0;
         res=new boolean[n];
+        List<Integer>[] a=new ArrayList[n];
+        for(int i=0;i<n;i++)
+        a[i]=new ArrayList<>();
         for(int i=0;i<edges.length;i++){
-            int a=edges[i][0];
-            int b=edges[i][1];
-            if(!hm.containsKey(a)){
-                List<Integer> list=new ArrayList<>();
-                list.add(b);
-                hm.put(a,list);
-            }
-            else
-            hm.get(a).add(b);
-            if(!hm.containsKey(b)){
-                List<Integer> list=new ArrayList<>();
-                list.add(a);
-                hm.put(b,list);
-            }
-            else
-            hm.get(b).add(a);
+            int x=edges[i][0];
+            int y=edges[i][1];
+            a[x].add(y);
+            a[y].add(x);
         }
         for(int i:restricted)
         res[i]=true;
-        dfs(0);
+        dfs(0,a);
         return c;
     }
 }
