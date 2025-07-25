@@ -1,18 +1,19 @@
 class Solution {
     int c;
-    HashSet<Integer> set=new HashSet<>();
+    boolean[] res;
     HashMap<Integer,List<Integer>> hm=new HashMap<>();
     public void dfs(int node){
-        if(set.contains(node))
+        if(res[node])
         return;
         c++;
-        set.add(node);
+        res[node]=true;
         for(int i:hm.get(node)){
             dfs(i);
         }
     }
     public int reachableNodes(int n, int[][] edges, int[] restricted) {
         c=0;
+        res=new boolean[n];
         for(int i=0;i<edges.length;i++){
             int a=edges[i][0];
             int b=edges[i][1];
@@ -32,7 +33,7 @@ class Solution {
             hm.get(b).add(a);
         }
         for(int i:restricted)
-        set.add(i);
+        res[i]=true;
         dfs(0);
         return c;
     }
