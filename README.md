@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
 | [0832-binary-tree-pruning](https://github.com/CoderChaos108/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CoderChaos108/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/CoderChaos108/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/CoderChaos108/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/CoderChaos108/LeetCode/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/CoderChaos108/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Reservoir Sampling
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
