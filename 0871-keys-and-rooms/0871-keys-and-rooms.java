@@ -1,7 +1,6 @@
 class Solution {
     int c;
     boolean[] seen;
-    HashSet<Integer> set;
     List<List<Integer>> list;
     public void dfs(int i){
         if(seen[i])
@@ -12,7 +11,6 @@ class Solution {
         dfs(n);
     }
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        set=new HashSet<>();
         seen=new boolean[rooms.size()];
         list=rooms;
         c=0;
