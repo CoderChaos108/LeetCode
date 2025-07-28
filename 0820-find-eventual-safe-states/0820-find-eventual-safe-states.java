@@ -1,31 +1,30 @@
 class Solution {
-    HashSet<Integer> set=new HashSet<>();
     int[][] a;
-    public boolean safe(int n,HashSet seen){
-        if(seen.contains(n)&&!set.contains(n))
+    int[] state;
+    
+    public boolean safe(int n){
+        if(state[n]==1)
         return false;
-        if(set.contains(n))
+        if(state[n]==2)
         return true;
-        seen.add(n);
+        state[n]=1;
         for(int i=0;i<a[n].length;i++){
-            if(safe(a[n][i],seen)==false)
+            if(!safe(a[n][i]))
             return false;
         }
-        set.add(n);
+        state[n]=2;
         return true;
     }
+
     public List<Integer> eventualSafeNodes(int[][] graph) {
         a=graph;
-        for(int i=0;i<graph.length;i++){
-            if(graph[i].length==0)
-            set.add(i);
+        int n=graph.length;
+        state=new int[n];
+        List<Integer> ans=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            if(safe(i))
+            ans.add(i);
         }
-        for(int i=-0;i<graph.length;i++){
-        if(!set.contains(i))
-        safe(i,new HashSet<>());
-        }
-        List<Integer> ans=new ArrayList<>(set);
-        Collections.sort(ans);
         return ans;
     }
 }
