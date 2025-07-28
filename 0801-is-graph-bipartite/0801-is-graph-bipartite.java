@@ -9,13 +9,9 @@ class Solution {
         if(seen.contains(i))
         return;
         seen.add(i);
-        if(!colored[i]){
             colored[i]=true;
             if(b)
             blue[i]=true;
-        }
-        else
-        b=blue[i];
         for(int k=0;k<a[i].length;k++){
                 color(a[i][k],!b);
             }
