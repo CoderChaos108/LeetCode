@@ -6,12 +6,12 @@ class Solution {
     int[][] a;
     HashSet<Integer> seen=new HashSet<>();
     public void color(int i,boolean b){
-        if(!seen.add(i))
-        return;
+        seen.add(i);
             colored[i]=true;
             if(b)
             blue[i]=true;
         for(int k=0;k<a[i].length;k++){
+            if(!seen.contains(a[i][k]))
                 color(a[i][k],!b);
             }
     }
@@ -27,8 +27,10 @@ class Solution {
         a=graph;
         colored=new boolean[n];
         blue=new boolean[n];
-        for(int i=0;i<n;i++)
-        color(i,true);
+      for(int i=0;i<n;i++){
+            if(!seen.contains(i))
+                color(i,true);
+            }
         for(int i=0;i<n;i++){
             if(!check(i))
             return false;
