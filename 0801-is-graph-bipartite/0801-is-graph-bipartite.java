@@ -6,9 +6,8 @@ class Solution {
     int[][] a;
     HashSet<Integer> seen=new HashSet<>();
     public void color(int i,boolean b){
-        if(seen.contains(i))
+        if(!seen.add(i))
         return;
-        seen.add(i);
             colored[i]=true;
             if(b)
             blue[i]=true;
