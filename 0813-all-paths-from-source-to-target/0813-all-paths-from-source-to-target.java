@@ -5,13 +5,15 @@ class Solution {
     public void pathfinder(int node,List<Integer> list){
         if(node==n){
             list.add(node);
-            path.add(list);
-            return;
+            path.add(new ArrayList<>(list));
         }
+        else{
         list.add(node);
         for(int i=0;i<a[node].length;i++){
-            pathfinder(a[node][i],new ArrayList<>(list));
+            pathfinder(a[node][i],list);
         }
+        }
+        list.remove(list.size()-1);
     }
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
      path=new ArrayList<>();
