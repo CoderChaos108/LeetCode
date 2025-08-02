@@ -15,20 +15,15 @@ class Solution {
             }            
         }
         int sum=0;
-        boolean same=false;
-        while(!same){
-            same=true;
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
                     int min=Math.min(row[i],col[j]);
                     if(grid[i][j]<min){
                         sum=sum+min-grid[i][j];
                         grid[i][j]=min;
-                        same=false;
                     }
                 }
             }
-        }
         return sum;
     }
 }
