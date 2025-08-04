@@ -4,7 +4,6 @@ class Solution {
         int m=maze.length;
         int n=maze[0].length;
         Queue<List<Integer>> q=new LinkedList<>();
-        boolean[][] seen=new boolean[m][n];
         q.add(Arrays.asList(entrance[0],entrance[1]));
         while(!q.isEmpty()){
             int size=q.size();
@@ -13,9 +12,9 @@ class Solution {
                 List<Integer> list=q.poll();
                 int a=list.get(0);
                 int b=list.get(1);
-                if(maze[a][b]=='+'||seen[a][b])
+                if(maze[a][b]=='+')
                 continue;
-                seen[a][b]=true;
+                maze[a][b]='+';
                 if((a==0||b==0||a==m-1||b==n-1)&&(a!=entrance[0]||b!=entrance[1]))
                 return c;
                 if(a+1<m)
