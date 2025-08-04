@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/CoderChaos108/LeetCode/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/CoderChaos108/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CoderChaos108/LeetCode/tree/master/0817-design-hashmap) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/CoderChaos108/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CoderChaos108/LeetCode/tree/master/0817-design-hashmap) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0742-to-lower-case](https://github.com/CoderChaos108/LeetCode/tree/master/0742-to-lower-case) |
+| [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/CoderChaos108/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/CoderChaos108/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -1080,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
+| [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
