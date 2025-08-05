@@ -20,30 +20,23 @@ class Solution {
             if(p!=-1)
             tree.get(p).add(i);
         }
-        HashMap<Long,Integer> hm=new HashMap<>();
+        HashMap<Integer,Integer> hm=new HashMap<>();
         dfs(0);
-        long ans=0;
+        int ans=0;
         int m=0;
         for(int i=0;i<n;i++){
-            int parent=0;
-            int left=0;
-            int right=0;
+            int parent=1;
+            int left=1;
+            int right=1;
             List<Integer> list=tree.get(i);
             if(parents[i]!=-1)
-            parent=n-nodes[i];
+            parent=nodes[0]-nodes[i];
             if(list.size()!=0)
             left=nodes[list.get(0)];
             if(list.size()==2)
             right=nodes[list.get(1)];
-            long product=1;
-            if(parent>0)
-            product=product*parent;
-            if(left>0)
-            product=product*left;
-            if(right>0)
-            product=product*right;
-            if(product>ans)
-            ans=product;
+            int product=parent*left*right;
+            ans=Math.max(ans,product);
             hm.put(product,hm.getOrDefault(product,0)+1);
         }
         return hm.get(ans);
