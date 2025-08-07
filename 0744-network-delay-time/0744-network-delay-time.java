@@ -1,37 +1,38 @@
 class Solution {
-    List<List<List<Integer>>> graph=new ArrayList<>();
+    List<List<int[]>> graph=new ArrayList<>();
     int[] distance;
-    public int networkDelayTime(int[][] times, int n, int k) {
+    public int networkDelayTime(int[][] times,int n,int k) {
         distance=new int[n+1];
-        for(int i=0;i<=n;i++){
-        graph.add(new ArrayList<>());
-        if(i!=k)
-        distance[i]=Integer.MAX_VALUE;
+        for(int i=0;i<=n;i++) {
+            graph.add(new ArrayList<>());
+            distance[i]=Integer.MAX_VALUE;
         }
-        for(int i=0;i<times.length;i++){
-            List<List<Integer>> list=graph.get(times[i][0]);
-            list.add(Arrays.asList(times[i][2],times[i][1]));
+        distance[k]=0;
+        for(int i=0;i<times.length;i++) {
+            List<int[]> list=graph.get(times[i][0]);
+            list.add(new int[]{times[i][1],times[i][2]});
         }
-        PriorityQueue<List<Integer>> pq=new PriorityQueue<>((a,b)->a.get(0)-b.get(0));
-        pq.add(Arrays.asList(0,k));
-        while(!pq.isEmpty()){
-            List<Integer> l=pq.poll();
-            int d=l.get(0);
-            int current=l.get(1);
-            for(List<Integer> list:graph.get(current)){
-                int curDis=d+list.get(0);
-                int node=list.get(1);
-                if(distance[node]>curDis){
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->a[0]-b[0]);
+        pq.add(new int[]{0,k});
+        while(!pq.isEmpty()) {
+            int[] l=pq.poll();
+            int d=l[0];
+            int current=l[1];
+            if(d>distance[current]) continue;
+            for(int[] list:graph.get(current)) {
+                int node=list[0];
+                int curDis=d+list[1];
+                if(distance[node]>curDis) {
                     distance[node]=curDis;
-                    pq.add(Arrays.asList(curDis,node));
+                    pq.add(new int[]{curDis,node});
                 }
             }
         }
         int ans=-1;
-        for(int i=1;i<=n;i++){
+        for(int i=1;i<=n;i++) {
             if(distance[i]==Integer.MAX_VALUE)
             return -1;
-            ans=Math.max(distance[i],ans);
+            ans=Math.max(ans,distance[i]);
         }
         return ans;
     }
