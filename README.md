@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/CoderChaos108/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/CoderChaos108/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/CoderChaos108/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0655-print-binary-tree) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -1152,4 +1156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/CoderChaos108/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
