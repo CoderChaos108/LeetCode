@@ -1,4 +1,32 @@
 class Solution {
+    public void countSort(List<Integer> list){
+        int l=0;
+        int n=list.size();
+        int s=Integer.MAX_VALUE;
+        for(int i:list){
+        l=Math.max(l,i);
+        s=Math.min(s,i);
+        }
+        int k=l-s;
+        double log2 = Math.log(n) / Math.log(2);
+        int temp=(int)log2;
+        if(k>n*temp){
+            Collections.sort(list);
+            return;
+        }
+        boolean[] a = new boolean[l - s + 1];
+            for(int i : list)
+                a[i - s] = true;
+
+            int x = 0;
+            for(int i = 0; i <= l - s; i++){
+                if(a[i]){
+                    list.set(x, i + s);
+                    x++;
+                }
+            }
+
+    }
     public int minimumOperations(TreeNode root) {
         Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
@@ -15,7 +43,7 @@ class Solution {
                 q.add(node.right);
             }
             List<Integer> sorted=new ArrayList<>(list);
-            Collections.sort(sorted);
+            countSort(sorted);
             HashMap<Integer,Integer> hm=new HashMap<>();
             for(int i=0;i<sorted.size();i++)
             hm.put(sorted.get(i),i);
