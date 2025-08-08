@@ -35,10 +35,13 @@ class Solution {
             for(int i=0;i<sorted.size();i++){
                 hm.put(sorted.get(i),i);
             }
+            HashSet<Integer> seen=new HashSet<>();
             boolean change=true;
             while(change==true){
                 change=false;
             for(int i=0;i<list.size();i++){
+                if(seen.add(list.get(i))==false)
+                continue;
                 int j=hm.get(list.get(i));
                 if(i==j)
                 continue;
