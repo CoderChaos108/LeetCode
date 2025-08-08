@@ -1,18 +1,3 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public int minimumOperations(TreeNode root) {
         Queue<TreeNode> q=new LinkedList<>();
@@ -32,25 +17,19 @@ class Solution {
             List<Integer> sorted=new ArrayList<>(list);
             Collections.sort(sorted);
             HashMap<Integer,Integer> hm=new HashMap<>();
-            for(int i=0;i<sorted.size();i++){
-                hm.put(sorted.get(i),i);
-            }
-            HashSet<Integer> seen=new HashSet<>();
-            boolean change=true;
-            while(change==true){
-                change=false;
-            for(int i=0;i<list.size();i++){
-                if(seen.add(list.get(i))==false)
-                continue;
+            for(int i=0;i<sorted.size();i++)
+            hm.put(sorted.get(i),i);
+            int i=0;
+            while(i<list.size()){
                 int j=hm.get(list.get(i));
-                if(i==j)
-                continue;
-                change=true;
+                if(i==j){
+                    i++;
+                    continue;
+                }
                 c++;
                 int k=list.get(i);
                 list.set(i,list.get(j));
                 list.set(j,k);
-            }
             }
         }
         return c; 
