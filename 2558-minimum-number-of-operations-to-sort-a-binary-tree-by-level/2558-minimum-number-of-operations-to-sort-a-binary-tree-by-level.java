@@ -8,7 +8,9 @@ class Solution {
         s=Math.min(s,i);
         }
         int k=l-s;
-        if(k>n*3){
+        double log2 = Math.log(n) / Math.log(2);
+        int temp=(int)log2;
+        if(k>n*temp){
             Collections.sort(list);
             return;
         }
