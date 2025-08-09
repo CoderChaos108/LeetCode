@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/CoderChaos108/LeetCode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/CoderChaos108/LeetCode/tree/master/0457-circular-array-loop) |
 | [0481-magical-string](https://github.com/CoderChaos108/LeetCode/tree/master/0481-magical-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/CoderChaos108/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/CoderChaos108/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/CoderChaos108/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/CoderChaos108/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CoderChaos108/LeetCode/tree/master/0817-design-hashmap) |
