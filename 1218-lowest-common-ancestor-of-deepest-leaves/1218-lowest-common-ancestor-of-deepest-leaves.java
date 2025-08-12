@@ -14,7 +14,24 @@
  * }
  */
 class Solution {
-    HashSet<TreeNode> set;
+    HashSet<TreeNode> set=new HashSet<>();
+    int d=0;
+    public void depth(TreeNode node,int d0){
+        if(node==null){
+            d=Math.max(d,d0);
+            return;
+        }
+        depth(node.left,d0+1);
+        depth(node.right,d0+1);
+    }
+    public void dfs(TreeNode node,int d1){
+        if(node==null)
+        return;
+        if(node.left==null&&node.right==null&&d1==d)
+        set.add(node);
+        dfs(node.left,d1+1);
+        dfs(node.right,d1+1);
+    }
     public TreeNode LCA(TreeNode node){
         if(node==null||set.contains(node))
         return node;
@@ -27,27 +44,9 @@ class Solution {
         return left;
     }
     public TreeNode lcaDeepestLeaves(TreeNode root) {
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int size=q.size();
-            List<TreeNode> list=new ArrayList<>();
-            boolean children=false;
-            for(int i=0;i<size;i++){
-                TreeNode node=q.poll();
-                if(node.left!=null){
-                    q.add(node.left);
-                    children=true;
-                }
-                if(node.right!=null){
-                    q.add(node.right);
-                    children=true;
-                }
-                list.add(node);
-            }
-            if(!children)
-            set=new HashSet<>(list);
-        }
+        depth(root,0);
+        d--;
+        dfs(root,0);
         return LCA(root);
     }
 }
