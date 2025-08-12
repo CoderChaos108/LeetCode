@@ -8,35 +8,49 @@
  * }
  */
 class Solution {
-    TreeNode lca;
-    TreeNode a;
-    TreeNode b;
-    public boolean findp(TreeNode n){
-        if(n==null)
-        return false;
-        if(n==a)
-        return true;
-        return findp(n.left)||findp(n.right);
-    }
-    public boolean findq(TreeNode n){
-        if(n==null)
-        return false;
-        if(n==b)
-        return true;
-        return findq(n.left)||findq(n.right);
-    }
-    public void ancestor(TreeNode node){
+    List<TreeNode> preOrder=new ArrayList<>();
+    public void dfs(TreeNode node){
         if(node==null)
         return;
-        if((findp(node)&findq(node)))
-        lca=node;
-        ancestor(node.left);
-        ancestor(node.right);
+        preOrder.add(node);
+        dfs(node.left);
+        dfs(node.right);
+    }
+    TreeNode n1,n2;
+    boolean a,b=false;
+    public boolean search(TreeNode node){
+        if(node==null)
+        return false;
+        if(node==n1)
+        a=true;
+        if(node==n2)
+        b=true;
+        if(a&&b)
+        return true;
+        return search(node.left)||search(node.right);
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        a=p;
-        b=q;
-        ancestor(root);
-        return lca;
+        n1=p;
+        n2=q;
+        dfs(root);
+        boolean foundP=false;
+        boolean foundQ=false;
+        int i=preOrder.size()-1;
+        while(!foundP||!foundQ){
+            TreeNode node=preOrder.get(i);
+            if(node==p)
+            foundP=true;
+            if(node==q)
+            foundQ=true;
+            i--;
+        }
+        i++;
+        for(int j=i;j>0;j--){
+            if(search(preOrder.get(j)))
+            return preOrder.get(j);
+            a=false;
+            b=false;
+        }
+        return root;
     }
 }
