@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0913-random-flip-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0913-random-flip-matrix) |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CoderChaos108/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/CoderChaos108/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CoderChaos108/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/CoderChaos108/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CoderChaos108/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1117,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/CoderChaos108/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
