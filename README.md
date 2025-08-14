@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/CoderChaos108/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CoderChaos108/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
+| [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/CoderChaos108/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -1197,4 +1200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/CoderChaos108/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
