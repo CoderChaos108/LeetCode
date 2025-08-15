@@ -1,7 +1,7 @@
 class Solution {
     public int minimumEffortPath(int[][] heights) {
         PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->a[0]-b[0]);
-        pq.add(new int[] {0,0,0});
+        pq.add(new int[]{0,0,0});
         int m=heights.length;
         int n=heights[0].length;
         boolean[][] seen=new boolean[m][n];
@@ -10,9 +10,10 @@ class Solution {
             int eff=a[0];
             int i=a[1];
             int j=a[2];
+            if(seen[i][j]) continue;
             seen[i][j]=true;
             if(i==m-1&&j==n-1)
-            return eff;
+                return eff;
             int val=heights[i][j];
             if(i-1>=0&&!seen[i-1][j]){
                 int newEff=Math.max(eff,Math.abs(val-heights[i-1][j]));
