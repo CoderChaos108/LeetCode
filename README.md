@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CoderChaos108/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CoderChaos108/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0936-rle-iterator) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CoderChaos108/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/CoderChaos108/LeetCode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
