@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderChaos108/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CoderChaos108/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/CoderChaos108/LeetCode/tree/master/1448-maximum-69-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderChaos108/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/CoderChaos108/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0936-rle-iterator) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderChaos108/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/CoderChaos108/LeetCode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
@@ -1198,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 ## Topological Sort
 |  |
