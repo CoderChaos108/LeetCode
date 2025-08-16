@@ -1,58 +1,29 @@
 class CustomStack {
-    public class ListNode{
-        int val;
-        ListNode next,prev;
-        public ListNode(int val){
-            this.val=val;
-        }
-    }
-    int size,max;
-    ListNode head,tail;
+    List<Integer> list;
+    int max;
     public CustomStack(int maxSize) {
-        head=null;
+        list=new ArrayList<>();
         max=maxSize;
-        tail=null;
-        size=0;
     }
     
     public void push(int x) {
-        if(size==max)
+        if(list.size()==max)
         return;
-        if(size==0){
-            head=new ListNode(x);
-            tail=head;
-        }
-        else{
-            tail.next=new ListNode(x);
-            tail.next.prev=tail;
-            tail=tail.next;
-        }
-        size++;
+        list.add(x);
     }
     
     public int pop() {
-        if(size==0)
+        if(list.size()==0)
         return -1;
-        size--;
-        int v=tail.val;
-        if(size==0){
-            head=null;
-            tail=null;
-            return v;
-        }
-        tail=tail.prev;
-        tail.next=null;
+        int v=list.get(list.size()-1);
+        list.remove(list.size()-1);
         return v;
     }
     
     public void increment(int k, int val) {
-        int i=0;
-        ListNode current=head;
-        while(i<k&&current!=null){
-            current.val+=val;
-            current=current.next;
-            i++;
-        }
+        k=Math.min(k,list.size());
+        for(int i=0;i<k;i++)
+        list.set(i,list.get(i)+val);
     }
 }
 
