@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CoderChaos108/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Quickselect
 |  |
 | ------- |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/CoderChaos108/LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Reservoir Sampling
 |  |
@@ -1179,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1227,4 +1232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderChaos108/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
