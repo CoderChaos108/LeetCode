@@ -20,11 +20,11 @@ class Solution {
             int w=a[0];
             int node=a[1];
             for(List<Integer> l:graph.get(node)){
-                int newW=Math.min(w,l.get(0));
+                w=Math.min(w,l.get(0));
                 int newNode=l.get(1);
-                if(newW<score[newNode]){
-                    score[newNode]=newW;
-                    pq.add(new int[]{newW,newNode});
+                if(w<score[newNode]){
+                    score[newNode]=w;
+                    pq.add(new int[]{w,newNode});
                 }
             }
         }
