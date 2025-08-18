@@ -10,19 +10,24 @@
  */
 class Solution {
     HashSet<Integer> set=new HashSet<>();
-    public ListNode recur(ListNode node){
-        if(node==null)
-        return null;
-        if(set.contains(node.val)){
-            return recur(node.next);
-        }
-        else
-        node.next=recur(node.next);
-        return node;
-    }
     public ListNode modifiedList(int[] nums, ListNode head) {
         for(int i:nums)
         set.add(i);
-        return recur(head);
+        ListNode eden=null;
+        ListNode current=eden;
+        while(head!=null){
+            if(!set.contains(head.val)){
+                if(eden==null){
+                    eden=new ListNode(head.val);
+                    current=eden;
+                    head=head.next;
+                    continue;
+                }
+                current.next=new ListNode(head.val);
+                current=current.next;
+            }
+            head=head.next;
+        }
+        return eden;
     }
 }
