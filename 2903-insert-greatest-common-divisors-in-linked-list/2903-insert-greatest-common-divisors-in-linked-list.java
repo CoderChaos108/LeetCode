@@ -12,7 +12,6 @@ class Solution {
     public int gcd(int x,int y){
         int min=Math.min(x,y);
         int max=x*y/min;
-        List<Integer> list=Arrays.asList(min,max);
         for(int i=min;i>1;i--){
             if(min%i==0&&max%i==0){
                 return i;
