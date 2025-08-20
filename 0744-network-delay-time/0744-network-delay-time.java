@@ -4,15 +4,20 @@ class Solution {
         for(int i=0;i<n;i++)
         a[i]=Integer.MAX_VALUE;
         a[k-1]=0;
+        boolean changed=false;
         for(int i=0;i<n-1;i++){
+            changed=false;
             for(int[] arr:times){
                 int x=arr[0]-1;
                 int y=arr[1]-1;
                 int w=arr[2];
                 if(a[x]!=Integer.MAX_VALUE&&w+a[x]<a[y]){
                     a[y]=w+a[x];
+                    changed=true;
                 }
             }
+            if(!changed)
+            break;
         }
         int ans=-1;
         for(int i:a){
