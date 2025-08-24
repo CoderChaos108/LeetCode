@@ -1,37 +1,43 @@
+import java.util.*;
+
 class Solution {
     public int minCostConnectPoints(int[][] points) {
-        List<List<List<Integer>>> graph=new ArrayList<>();
         int n=points.length;
-        HashMap<List<Integer>,Integer> hm=new HashMap<>();
-        for(int i=0;i<n;i++){
-        graph.add(new ArrayList<>());
-        List<Integer> l=Arrays.asList(points[i][0],points[i][1]);
-        hm.put(l,i);
-        }
+        
+        List<List<int[]>> graph=new ArrayList<>();
+        for(int i=0;i<n;i++) graph.add(new ArrayList<>());
+        
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 int dist=Math.abs(points[i][0]-points[j][0])+Math.abs(points[i][1]-points[j][1]);
-                graph.get(i).add(Arrays.asList(dist,j));
-                graph.get(j).add(Arrays.asList(dist,i));
+                graph.get(i).add(new int[]{dist,j});
+                graph.get(j).add(new int[]{dist,i});
             }
         }
-        int s=0;
+
+        int cost=0;
         boolean[] seen=new boolean[n];
+        int edgesUsed=0;
+
         PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->a[0]-b[0]);
-        pq.add(new int[]{0,0});
-        while(!pq.isEmpty()){
-            int[] a=pq.poll();
-            int w=a[0];
-            int node=a[1];
-            if(seen[node])
-            continue;
+        pq.add(new int[]{0,0}); 
+
+        while(edgesUsed<n){
+            int[] curr=pq.poll();
+            int w=curr[0],node=curr[1];
+            if(seen[node]) continue;
+
             seen[node]=true;
-            s=s+w;
-            for(List<Integer> l:graph.get(node)){
-                if(!seen[l.get(1)])
-                pq.add(new int[]{l.get(0),l.get(1)});
+            cost+=w;
+            edgesUsed++;
+
+            for(int[] nei:graph.get(node)){
+                if(!seen[nei[1]]){
+                    pq.add(new int[]{nei[0],nei[1]});
+                }
             }
         }
-        return s;
+        
+        return cost;
     }
 }
