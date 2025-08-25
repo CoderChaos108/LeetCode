@@ -2,8 +2,10 @@ class Solution {
     List<List<Integer>> graph=new ArrayList<>();
     List<String> queries=new ArrayList<>();
     boolean[] seen=new boolean[26];
+    HashSet<List<Integer>> set=new HashSet<>();
+    List<Integer> list;
     public boolean check(int x,int y){
-        if(seen[x])
+        if(seen[x]||set.contains(list))
         return true;
         seen[x]=true;
         if(x==y)
@@ -35,13 +37,15 @@ class Solution {
             int y=s.charAt(3)-'a';
             int sizeX=graph.get(x).size();
             int sizeY=graph.get(y).size();
+            list=Arrays.asList(x,y);
+            Collections.sort(list);
             if(x==y)
             return false;
             if(sizeX==0||sizeY==0)
             continue;
             if(!check(x,y))
             return false;
-           
+           set.add(list);
         }
         return true;
     }
