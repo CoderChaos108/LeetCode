@@ -36,20 +36,15 @@ class Solution {
             for(String s:watchedVideos.get(i))
             hm.put(s,hm.getOrDefault(s,0)+1);
         }
-        PriorityQueue<String> pq=new PriorityQueue<>((a,b)->{
-            int f=hm.get(a)-hm.get(b);
-            if(f!=0)
-            return f;
-            else{
-                return a.compareTo(b);
-            }
-        });
-        for(String s:hm.keySet()){
-            pq.add(s);
+       List<String> ans=new ArrayList(hm.keySet());
+       Collections.sort(ans,(a,b)->{
+        int f=hm.get(a)-hm.get(b);
+        if(f!=0)
+        return f;
+        else{
+            return a.compareTo(b);
         }
-        List<String> ans=new ArrayList<>();
-        while(!pq.isEmpty())
-        ans.add(pq.poll());
-        return ans;
+       });
+       return ans;
     }  
 }
