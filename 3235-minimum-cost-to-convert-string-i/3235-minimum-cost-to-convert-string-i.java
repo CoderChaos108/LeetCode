@@ -1,55 +1,30 @@
 class Solution {
-
-    class Pair {
-        long val;
-        char node;
-        Pair(long val,char node){
-            this.val=val;
-            this.node=node;
-        }
-    }
-
     public long minimumCost(String source,String target,char[] original,char[] changed,int[] cost){
-        long[][] map=new long[26][26];
-        List<Pair>[] graph=new ArrayList[26];
-        for(int i=0;i<26;i++)
-            graph[i]=new ArrayList<>();
-
-        for(int i=0;i<original.length;i++){
-            graph[original[i]-'a'].add(new Pair((long)cost[i],changed[i]));
+        long[][] a=new long[26][26];
+        for(int i=0;i<26;i++){
+            for(int j=0;j<26;j++){
+                a[i][j]=Long.MAX_VALUE/2;
+            }
         }
+        for(int i=0;i<26;i++)
+        a[i][i]=0;
+        for(int i=0;i<original.length;i++){
+            a[original[i]-'a'][changed[i]-'a']=Math.min(a[original[i]-'a'][changed[i]-'a'],(long)cost[i]);
 
+        }
+        for(int k=0;k<26;k++){
+            for(int i=0;i<26;i++){
+                for(int j=0;j<26;j++){
+                    if(a[i][k]!=Long.MAX_VALUE/2&&a[k][j]!=Long.MAX_VALUE/2)
+                    a[i][j]=Math.min(a[i][j],a[i][k]+a[k][j]);
+                }
+            }
+        }
         long ans=0;
         for(int i=0;i<source.length();i++){
-            boolean[] seen=new boolean[26];
-            char start=source.charAt(i);
-            char end=target.charAt(i);
-            if(map[start-'a'][end-'a']!=0){
-                ans=ans+map[start-'a'][end-'a'];
-                continue;
-            }
-            PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->Long.compare(a.val,b.val));
-            pq.add(new Pair(0L,start));
-            boolean found=false;
-            while(!pq.isEmpty()){
-                Pair a=pq.poll();
-                char node=a.node;
-                long currentCost=a.val;
-                if(seen[node-'a'])
-                continue;
-                seen[node-'a']=true;
-                if(node==end){
-                    ans=ans+currentCost;
-                    found=true;
-                    map[start-'a'][end-'a']=currentCost;
-                    break;
-                }
-                for(Pair p:graph[node-'a']){
-                    pq.add(new Pair(p.val+currentCost,p.node));
-                }
-            }
-            if(!found)
-            return -1; 
+            if(a[source.charAt(i)-'a'][target.charAt(i)-'a']==Long.MAX_VALUE/2)
+            return -1;
+            ans=ans+a[source.charAt(i)-'a'][target.charAt(i)-'a'];
         }
         return ans;
     }
