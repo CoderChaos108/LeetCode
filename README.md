@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/CoderChaos108/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderChaos108/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/CoderChaos108/LeetCode/tree/master/3561-remove-methods-from-project) |
 | [3729-unit-conversion-i](https://github.com/CoderChaos108/LeetCode/tree/master/3729-unit-conversion-i) |
 | [3863-power-grid-maintenance](https://github.com/CoderChaos108/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/CoderChaos108/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3561-remove-methods-from-project](https://github.com/CoderChaos108/LeetCode/tree/master/3561-remove-methods-from-project) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3729-unit-conversion-i](https://github.com/CoderChaos108/LeetCode/tree/master/3729-unit-conversion-i) |
@@ -1294,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderChaos108/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/CoderChaos108/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3561-remove-methods-from-project](https://github.com/CoderChaos108/LeetCode/tree/master/3561-remove-methods-from-project) |
 | [3729-unit-conversion-i](https://github.com/CoderChaos108/LeetCode/tree/master/3729-unit-conversion-i) |
 | [3863-power-grid-maintenance](https://github.com/CoderChaos108/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
