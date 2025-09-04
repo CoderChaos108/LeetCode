@@ -1,31 +1,23 @@
 class Solution {
     public long maximumImportance(int n, int[][] roads) {
      int[] values=new int[n];
-     List<Integer> [] graph=new ArrayList[n];
-     PriorityQueue<Integer> pq=new PriorityQueue<>((a,b)->{
-        return graph[a].size()-graph[b].size();
-     });
-     for(int i=0;i<n;i++)
-     graph[i]=new ArrayList<>();
+     int[] degrees=new int[n];
+     Integer[] nodes=new Integer[n];
      for(int[] a:roads){
-        int x=a[0];
-        int y=a[1];
-        graph[x].add(y);
-        graph[y].add(x);
+        degrees[a[0]]++;
+        degrees[a[1]]++;
      }
     for(int i=0;i<n;i++){
-        pq.add(i);
+        nodes[i]=i;
     }
+    Arrays.sort(nodes,(a,b)->(degrees[a]-degrees[b]));
     for(int i=1;i<=n;i++){
-        int node=pq.poll();
-        values[node]=i;
+        values[nodes[i-1]]=i;
     }
     long ans=0;
-    for(int i=0;i<n;i++){
-        for(int neigh:graph[i]){
-            ans=ans+values[i]+values[neigh];
-        }
+    for(int[] a:roads){
+        ans=ans+values[a[0]]+values[a[1]];
     }
-    return ans/2;
+    return ans;
     }
 }
