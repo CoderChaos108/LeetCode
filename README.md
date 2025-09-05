@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/CoderChaos108/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/CoderChaos108/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/CoderChaos108/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/CoderChaos108/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/CoderChaos108/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/CoderChaos108/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/CoderChaos108/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/CoderChaos108/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
@@ -1245,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/CoderChaos108/LeetCode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/CoderChaos108/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
