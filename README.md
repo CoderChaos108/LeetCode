@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CoderChaos108/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/CoderChaos108/LeetCode/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/CoderChaos108/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/CoderChaos108/LeetCode/tree/master/1512-design-underground-system) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CoderChaos108/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0898-transpose-matrix) |
+| [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CoderChaos108/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
 ## Randomized
 |  |
 | ------- |
