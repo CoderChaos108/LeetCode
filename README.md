@@ -862,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/CoderChaos108/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2201-valid-arrangement-of-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CoderChaos108/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/CoderChaos108/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/CoderChaos108/LeetCode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2201-valid-arrangement-of-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/CoderChaos108/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1373,4 +1375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
