@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0936-rle-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0936-rle-iterator) |
 | [0960-minimize-malware-spread](https://github.com/CoderChaos108/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/CoderChaos108/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/CoderChaos108/LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-random-flip-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0913-random-flip-matrix) |
 | [0931-maximum-frequency-stack](https://github.com/CoderChaos108/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0960-minimize-malware-spread](https://github.com/CoderChaos108/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderChaos108/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CoderChaos108/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/CoderChaos108/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderChaos108/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/CoderChaos108/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/CoderChaos108/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderChaos108/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/CoderChaos108/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/CoderChaos108/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/CoderChaos108/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderChaos108/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/CoderChaos108/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/CoderChaos108/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -1288,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/CoderChaos108/LeetCode/tree/master/0922-possible-bipartition) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
 | [0960-minimize-malware-spread](https://github.com/CoderChaos108/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/CoderChaos108/LeetCode/tree/master/1036-rotting-oranges) |
