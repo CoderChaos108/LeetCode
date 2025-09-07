@@ -32,14 +32,13 @@ class Solution {
         dfs(start);
 
         int n=pairs.length;
+        List<Integer> list=new ArrayList<>(path);
         int[][] res=new int[n][2];
-        Iterator<Integer> it=path.iterator();
-        int prev=it.next();
         for(int i=0;i<n;i++){
-            int curr=it.next();
-            res[i][0]=prev;
-            res[i][1]=curr;
-            prev=curr;
+            int curr=list.get(i);
+            int succ=list.get(i+1);
+            res[i][0]=curr;
+            res[i][1]=succ;
         }
         return res;
     }
