@@ -1,6 +1,6 @@
 class Solution {
     HashMap<Integer,ArrayList<Integer>> graph=new HashMap<>();
-    LinkedList<Integer> path=new LinkedList<>();
+    ArrayList<Integer> path=new ArrayList<>();
     HashMap<Integer,Integer> inDegree=new HashMap<>();
     HashMap<Integer,Integer> outDegree=new HashMap<>();
 
@@ -10,7 +10,7 @@ class Solution {
             int next=neighs.remove(neighs.size()-1);
             dfs(next);
         }
-        path.addFirst(node);
+        path.add(node); 
     }
 
     public int[][] validArrangement(int[][] pairs) {
@@ -20,6 +20,7 @@ class Solution {
             outDegree.put(x,outDegree.getOrDefault(x,0)+1);
             inDegree.put(y,inDegree.getOrDefault(y,0)+1);
         }
+
         int start=pairs[0][0];
         for(int node:graph.keySet()){
             int out=outDegree.getOrDefault(node,0);
@@ -29,16 +30,14 @@ class Solution {
                 break;
             }
         }
+
         dfs(start);
 
         int n=pairs.length;
-        List<Integer> list=new ArrayList<>(path);
         int[][] res=new int[n][2];
-        for(int i=0;i<n;i++){
-            int curr=list.get(i);
-            int succ=list.get(i+1);
-            res[i][0]=curr;
-            res[i][1]=succ;
+        for(int i=n;i>0;i--){
+            res[n-i][0]=path.get(i);
+            res[n-i][1]=path.get(i-1);
         }
         return res;
     }
