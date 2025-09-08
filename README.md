@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/CoderChaos108/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/CoderChaos108/LeetCode/tree/master/3561-remove-methods-from-project) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderChaos108/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/CoderChaos108/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/CoderChaos108/LeetCode/tree/master/3561-remove-methods-from-project) |
 | [3729-unit-conversion-i](https://github.com/CoderChaos108/LeetCode/tree/master/3729-unit-conversion-i) |
 | [3863-power-grid-maintenance](https://github.com/CoderChaos108/LeetCode/tree/master/3863-power-grid-maintenance) |
