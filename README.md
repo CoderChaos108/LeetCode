@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CoderChaos108/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/CoderChaos108/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/CoderChaos108/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/CoderChaos108/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1340,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/CoderChaos108/LeetCode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1389,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/CoderChaos108/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/CoderChaos108/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2439-longest-cycle-in-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
