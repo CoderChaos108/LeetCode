@@ -6,9 +6,8 @@ class Solution {
         }
         int vf=0;
         int cf=0;
-        Set<Integer> vowels=Set.of(0,4,'i'-'a','o'-'a','u'-'a');
         for(int i=0;i<26;i++){
-            if(vowels.contains(i)){
+            if(i==0||i==4||i=='i'-'a'||i=='o'-'a'||i=='u'-'a'){
                 vf=Math.max(vf,a[i]);
             }
             else
