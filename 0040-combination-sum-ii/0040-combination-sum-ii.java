@@ -7,11 +7,11 @@ class Solution {
             ans.add(new ArrayList<>(list));
             return;
         }
-        if(sum>target)
-        return;
         for(int i=k;i<a.length;i++){
             if(i>k&&a[i]==a[i-1])
             continue;
+            if(sum+a[i]>target)
+            return;
             list.add(a[i]);
             find(list,a[i]+sum,i+1);
             list.remove(list.size()-1);
