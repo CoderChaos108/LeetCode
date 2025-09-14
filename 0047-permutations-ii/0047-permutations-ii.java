@@ -1,5 +1,5 @@
 class Solution {
-    Set<List<Integer>> ans=new HashSet<>();
+    List<List<Integer>> ans=new ArrayList<>();
     int[] a;
     int n;
     boolean[] seen;
@@ -11,6 +11,8 @@ class Solution {
         for(int i=0;i<n;i++){
             if(seen[i])
             continue;
+            if(i>0&&a[i-1]==a[i]&&!seen[i-1])
+            continue;
             seen[i]=true;
             list.add(a[i]);
             find(list,i);
@@ -19,10 +21,11 @@ class Solution {
         }
     }
     public List<List<Integer>> permuteUnique(int[] nums) {
+        Arrays.sort(nums);
         a=nums;
         n=a.length;
         seen=new boolean[n];
         find(new ArrayList<>(),-1);
-        return new ArrayList<>(ans);
+        return ans;
     }
 }
