@@ -20,11 +20,7 @@ class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int t) {
         a=candidates;
         target=t;
-        for(int i=0;i<a.length;i++){
-            List<Integer> list=new ArrayList<>();
-            list.add(a[i]);
-            find(list,a[i],i);
-        }
+        find(new ArrayList<>(),0,0);
         return ans;
     }
 }
