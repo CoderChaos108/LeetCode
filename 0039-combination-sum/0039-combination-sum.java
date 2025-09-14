@@ -4,7 +4,7 @@ class Solution {
     int target;
     public void find(List<Integer> list,int sum,int k){
         if(sum==target){
-            ans.add(list);
+            ans.add(new ArrayList<>(list));
             return;
         }
         if(sum>target)
