@@ -871,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/CoderChaos108/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1120-flower-planting-with-no-adjacent](https://github.com/CoderChaos108/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/CoderChaos108/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/1275-validate-binary-tree-nodes) |
+| [1300-critical-connections-in-a-network](https://github.com/CoderChaos108/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/CoderChaos108/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -1421,4 +1423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/CoderChaos108/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
