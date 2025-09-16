@@ -3,25 +3,19 @@ class Solution {
     int n;
     String s;
     public void find(StringBuilder sb,int k){
-        if(sb.length()==n){
+        if(k==n){
             ans.add(sb.toString());
             return;
         }
-        for(int i=k;i<n;i++){
-            char c=s.charAt(i);
-            sb.append(c);
-            find(sb,i+1);
+            char c=s.charAt(k);
+            sb.append(Character.toLowerCase(c));
+            find(sb,k+1);
             sb.setLength(sb.length()-1);
             if(Character.isDigit(c))
-            continue;
-            if(Character.isLowerCase(c))
-            c=Character.toUpperCase(c);
-            else
-            c=Character.toLowerCase(c);
-            sb.append(c);
-            find(sb,i+1);
+            return;
+            sb.append(Character.toUpperCase(c));
+            find(sb,k+1);
             sb.setLength(sb.length()-1);
-        }
     }
     public List<String> letterCasePermutation(String str){
         s=str;
