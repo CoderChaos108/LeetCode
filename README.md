@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/CoderChaos108/LeetCode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/CoderChaos108/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/CoderChaos108/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/CoderChaos108/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CoderChaos108/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/CoderChaos108/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/CoderChaos108/LeetCode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/CoderChaos108/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/CoderChaos108/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0800-letter-case-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/0800-letter-case-permutation) |
