@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CoderChaos108/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/CoderChaos108/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Bucket Sort
 |  |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/CoderChaos108/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/CoderChaos108/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
