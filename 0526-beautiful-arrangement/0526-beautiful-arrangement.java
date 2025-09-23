@@ -8,19 +8,19 @@ class Solution {
             return;
         }
         for(int i=1;i<=n;i++){
-            if(seen[i-1])
+            if(seen[i])
             continue;
             if(i%(size+1)!=0&&(size+1)%i!=0)
             continue;
-            seen[i-1]=true;
+            seen[i]=true;
             find(size+1);
-            seen[i-1]=false;
+            seen[i]=false;
         }
     }
 
     public int countArrangement(int n2) {
         n=n2;
-        seen=new boolean[n];
+        seen=new boolean[n+1];
         find(0);
         return ans;
     }
