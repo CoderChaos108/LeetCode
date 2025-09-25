@@ -2,8 +2,6 @@ class Solution {
     List<List<Integer>> list;
     HashMap<String,Integer> hm=new HashMap<>();
     public int dfs(int i,int j){
-        if(j>=list.get(i).size())
-        return Integer.MIN_VALUE;
         int s=list.get(i).get(j);
         if(i==list.size()-1)
         return s;
