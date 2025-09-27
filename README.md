@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CoderChaos108/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CoderChaos108/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/CoderChaos108/LeetCode/tree/master/1512-design-underground-system) |
 | [2107-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1022-unique-paths-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderChaos108/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/CoderChaos108/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/CoderChaos108/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2107-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Bucket Sort
@@ -1524,4 +1529,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
