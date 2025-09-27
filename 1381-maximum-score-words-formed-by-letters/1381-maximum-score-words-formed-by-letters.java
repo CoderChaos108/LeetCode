@@ -25,14 +25,11 @@ class Solution {
             ans=Math.max(ans,currScore);
             return;
         }
-        for(int i=k;i<words.length;i++){
-            String word=words[i];
-            if(cost(word)){
-                find(i+1,currScore+a[i]);
-                add(word);
+        if(cost(words[k])){
+                find(k+1,currScore+a[k]);
+                add(words[k]);
             }
-            find(i+1,currScore);
-        }
+            find(k+1,currScore);
     }
     public int maxScoreWords(String[] words2, char[] letters, int[] score) {
         a=new int[words2.length];
