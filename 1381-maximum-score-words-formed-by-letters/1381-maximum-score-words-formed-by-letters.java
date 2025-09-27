@@ -2,7 +2,6 @@ class Solution {
     int[] stock=new int[26];
     int ans=0;
     int[] a;
-    HashMap<String,Integer> hm=new HashMap<>();
     public boolean cost(String s){
         for(int i=0;i<s.length();i++){
             if(--stock[s.charAt(i)-'a']<0){
@@ -29,25 +28,22 @@ class Solution {
         for(int i=k;i<words.length;i++){
             String word=words[i];
             if(cost(word)){
-                find(i+1,currScore+hm.get(word));
+                find(i+1,currScore+a[i]);
                 add(word);
             }
             find(i+1,currScore);
         }
     }
     public int maxScoreWords(String[] words2, char[] letters, int[] score) {
-        for(String s:words2){
+        a=new int[words2.length];
+        for(int j=0;j<words2.length;j++){
             int val=0;
-            for(int i=0;i<s.length();i++){
-                val=val+score[s.charAt(i)-'a'];
+            for(int i=0;i<words2[j].length();i++){
+                val=val+score[words2[j].charAt(i)-'a'];
             }
-            hm.put(s,val);
+            a[j]=val;
         }
-        Arrays.sort(words2,(a,b)->{
-            return hm.get(b)-hm.get(a);
-        });
         words=words2;
-        a=score;
         for(char c:letters){
             stock[c-'a']++;
         }
