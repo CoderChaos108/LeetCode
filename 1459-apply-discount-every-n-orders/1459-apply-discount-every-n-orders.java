@@ -20,8 +20,7 @@ class Cashier {
             double p=hm.get(id);
             bill=bill+amount[i]*p;
         }
-        if(count==n){
-        count=0;
+        if(count%n==0){
         return disFactor*bill;
         }
         return bill;
