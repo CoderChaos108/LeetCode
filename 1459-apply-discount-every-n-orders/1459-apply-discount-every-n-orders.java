@@ -1,13 +1,16 @@
 class Cashier {
-    HashMap<Integer,Integer> hm;
+    int[] a;
     double disFactor;
     int n;
     int count=0;
+    int[] id,pri;
     public Cashier(int n, int discount, int[] products, int[] prices) {
-        hm=new HashMap<>();
+        a=new int[201];
+        id=products;
+        pri=prices;
         this.n=n;
         for(int i=0;i<products.length;i++)
-        hm.put(products[i],prices[i]);
+        a[id[i]]=i;
         disFactor=(double)(100-discount);
         disFactor=disFactor/100;
     }
@@ -17,7 +20,7 @@ class Cashier {
         double bill=0;
         for(int i=0;i<product.length;i++){
             int id=product[i];
-            double p=hm.get(id);
+            double p=pri[a[id]];
             bill=bill+amount[i]*p;
         }
         if(count%n==0){
