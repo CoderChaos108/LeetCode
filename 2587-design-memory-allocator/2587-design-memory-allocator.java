@@ -11,6 +11,8 @@ class Allocator {
         if(!hm.containsKey(mID))
         hm.put(mID,new ArrayList<>());
         for(int i=0;i<a.length;i++){
+            if(a.length-i+cons<size)
+            break;
             if(a[i])
             cons=0;
             else{
