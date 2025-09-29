@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1955-seat-reservation-manager](https://github.com/CoderChaos108/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/CoderChaos108/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2429-design-a-food-rating-system](https://github.com/CoderChaos108/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/CoderChaos108/LeetCode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
+| [1955-seat-reservation-manager](https://github.com/CoderChaos108/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/CoderChaos108/LeetCode/tree/master/2429-design-a-food-rating-system) |
