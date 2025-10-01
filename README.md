@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/CoderChaos108/LeetCode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/CoderChaos108/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CoderChaos108/LeetCode/tree/master/0817-design-hashmap) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/CoderChaos108/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0800-letter-case-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/CoderChaos108/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/CoderChaos108/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
@@ -821,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
@@ -1433,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/CoderChaos108/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
