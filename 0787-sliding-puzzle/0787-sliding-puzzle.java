@@ -9,10 +9,9 @@ class Solution {
         }
     }
     HashSet<List<Integer>> set=new HashSet<>();
-    HashSet<List<Integer>> winSet=new HashSet<>();
+    List<Integer> winSet=Arrays.asList(1,2,3,4,5,0);
     public int slidingPuzzle(int[][] board) {
         List<Integer> start=new ArrayList<>();
-        winSet.add(Arrays.asList(1,2,3,4,5,0));
         int i0=0;
         int j0=0;
         for(int i2=0;i2<2;i2++){
@@ -36,7 +35,7 @@ class Solution {
                 List<Integer> list=p.list;
                 if(!set.add(list))
                 continue;
-                if(winSet.contains(list))
+                if(list.equals(winSet))
                 return steps;
                 int place=3*i+j;
                 if(i!=0){
