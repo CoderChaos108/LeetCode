@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderChaos108/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/CoderChaos108/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/CoderChaos108/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bucket Sort
 |  |
