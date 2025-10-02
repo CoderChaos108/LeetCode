@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/CoderChaos108/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0676-implement-magic-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/CoderChaos108/LeetCode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0676-implement-magic-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0676-implement-magic-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/CoderChaos108/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
@@ -1060,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/CoderChaos108/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0676-implement-magic-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
 | [0816-design-hashset](https://github.com/CoderChaos108/LeetCode/tree/master/0816-design-hashset) |
@@ -1247,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0676-implement-magic-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
