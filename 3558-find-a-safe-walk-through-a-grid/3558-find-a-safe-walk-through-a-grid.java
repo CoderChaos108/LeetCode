@@ -5,7 +5,7 @@ class Solution {
         int m=grid.size();
         int n=grid.get(0).size();
         boolean[][] seen=new boolean[m][n];
-        while(true){
+        while(!pq.isEmpty()){
             int[] a=pq.poll();
             int i=a[0];
             int j=a[1];
@@ -13,6 +13,8 @@ class Solution {
             continue;
             seen[i][j]=true;
             int hp=a[2];
+            if(hp<=0)
+            continue;
             if(i==m-1&&j==n-1){
                 if(hp>=1)
                 return true;
@@ -32,5 +34,6 @@ class Solution {
             }
 
         }
+        return false;
     }
 }
