@@ -20,17 +20,23 @@ class Solution {
         if(node==null)
         return;
         long val=node.val;
-        List<Long> newList=new ArrayList<>();
         for(int i=0;i<list.size();i++){
-            newList.add(list.get(i)+val);
-            if(newList.get(i)==target)
-            ans++;
+            list.set(i,list.get(i)+val);
+            if(list.get(i)==target){
+                ans++;
+            }
         }
-        newList.add(val);
         if(val==target)
         ans++;
-        dfs(node.left,newList);
-        dfs(node.right,newList);
+        list.add((long)node.val);
+        dfs(node.left,list);
+        list.remove(list.size()-1);
+        list.add((long)node.val);
+        dfs(node.right,list);
+        list.remove(list.size()-1);
+        for(int i=0;i<list.size();i++){
+            list.set(i,list.get(i)-val);
+        }
     }
     public int pathSum(TreeNode root,int targetSum){
         target=targetSum;
