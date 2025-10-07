@@ -1,29 +1,32 @@
 class Solution {
     public int[] avoidFlood(int[] rains) {
         HashMap<Integer,Integer> hm=new HashMap<>();
-        List<Integer> list=new ArrayList<>();
+        TreeSet<Integer> list=new TreeSet<>();
         int[] ans=new int[rains.length];
         for(int i=0;i<rains.length;i++){
             int lake=rains[i];
             if(lake!=0){
                 ans[i]=-1;
                 if(hm.containsKey(lake)){
-                    if(list.size()==0||list.get(list.size()-1)<hm.get(lake))
+                    int idx=-1;
+                    int last=hm.get(lake);
+                    if(list.size()==0||list.last()<last)
                     return new int[0];
-                    int idx=list.get(list.size()-1);
+                    for(int itr:list){
+                        if(itr>last){
+                            idx=itr;
+                            break;
+                        }
+                    }
                     ans[idx]=lake;
-                    list.remove(list.size()-1);
+                    list.remove(idx);
                 }
-                else
                 hm.put(lake,i);
             }
             else{
                 list.add(i);
+                ans[i]=1;
             }
-        }
-        for(int i=0;i<ans.length;i++){
-            if(ans[i]==0)
-            ans[i]=1;
         }
         return ans;
     }
