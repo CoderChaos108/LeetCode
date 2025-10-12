@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/CoderChaos108/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1342-queens-that-can-attack-the-king](https://github.com/CoderChaos108/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/CoderChaos108/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1342-queens-that-can-attack-the-king](https://github.com/CoderChaos108/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0898-transpose-matrix) |
+| [1342-queens-that-can-attack-the-king](https://github.com/CoderChaos108/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1642-water-bottles](https://github.com/CoderChaos108/LeetCode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CoderChaos108/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
