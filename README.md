@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/CoderChaos108/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/CoderChaos108/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2104-operations-on-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2104-operations-on-tree) |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/1275-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/CoderChaos108/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1551,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/CoderChaos108/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
