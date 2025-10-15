@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2104-operations-on-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CoderChaos108/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
+| [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
