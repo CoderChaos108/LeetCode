@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CoderChaos108/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/CoderChaos108/LeetCode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/CoderChaos108/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/CoderChaos108/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/CoderChaos108/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CoderChaos108/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/CoderChaos108/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1212-sequential-digits](https://github.com/CoderChaos108/LeetCode/tree/master/1212-sequential-digits) |
 | [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/CoderChaos108/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/CoderChaos108/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
