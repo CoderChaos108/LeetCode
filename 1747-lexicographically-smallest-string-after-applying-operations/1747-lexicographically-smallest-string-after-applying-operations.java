@@ -1,60 +1,53 @@
 class Solution {
-    HashSet<List<Integer>> seen=new HashSet<>();
-    public List<Integer> check(List<Integer> list1,List<Integer> list2){
-        int size=Math.min(list1.size(),list2.size());
+    HashSet<String> seen=new HashSet<>();
+    public String check(String s1,String s2){
+        int size=Math.min(s1.length(),s2.length());
         for(int i=0;i<size;i++){
-            int val1=list1.get(i);
-            int val2=list2.get(i);
-            if(val1>val2)
-            return list2;
-            else if(val2>val1)
-            return list1;
+            char c1=s1.charAt(i);
+            char c2=s2.charAt(i);
+            if(c1>c2)
+            return s2;
+            else if(c2>c1)
+            return s1;
         }
-        if(size==list1.size())
-        return list1;
+        if(size==s1.length())
+        return s1;
         else
-        return list2;
+        return s2;
     }
     int a,b;
-    List<Integer> ans=new ArrayList<>();
-    public void find(List<Integer> list){
-        if(!seen.add(list))
+    String ans="";
+    public void find(StringBuilder sb){
+        String str=sb.toString();
+        if(!seen.add(str))
         return;
-        ans=new ArrayList<>(check(ans,list));
-        for(int i=1;i<list.size();i=i+2){
-            list.set(i,(list.get(i)+a)%10);
+        ans=check(ans,str);
+
+        for(int i=1;i<sb.length();i=i+2){
+            sb.setCharAt(i,(char)(((sb.charAt(i)-'0'+a)%10)+'0'));
         }
-        find(list);
-        for(int i=1;i<list.size();i=i+2){
-            list.set(i,(list.get(i)-a+10)%10);
+        find(new StringBuilder(sb));
+        for(int i=1;i<sb.length();i=i+2){
+            sb.setCharAt(i,(char)(((sb.charAt(i)-'0'-a+10)%10)+'0'));
         }
-        int[] temp=new int[list.size()];
-        List<Integer> rotated=new ArrayList<>();
-        for(int i=0;i<list.size();i++){
+
+        int n=sb.length();
+        StringBuilder rotated=new StringBuilder();
+        for(int i=0;i<n;i++){
             int idx=0;
-            if(i-b>=0){
-                idx=i-b;
-            }
+            if(i-b>=0)
+            idx=i-b;
             else
-            idx=list.size()+(i-b);
-            rotated.add(list.get(idx));
+            idx=n+(i-b);
+            rotated.append(sb.charAt(idx));
         }
         find(rotated);
     }
-    public String findLexSmallestString(String s, int a, int b) {
-       List<Integer> list=new ArrayList<>();
-        for(int i=0;i<s.length();i++){
-            list.add(s.charAt(i)-'0');
-        }
-        ans=new ArrayList<>(list);
+    public String findLexSmallestString(String s,int a,int b){
         this.a=a;
-        this.b=b;
-        b=b%s.length();
-        find(list);
-        StringBuilder sb=new StringBuilder();
-        for(int i:ans){
-            sb.append((char)(i+'0'));
-        }
-        return sb.toString();
+        this.b=b%s.length();
+        ans=s;
+        find(new StringBuilder(s));
+        return ans;
     }
 }
