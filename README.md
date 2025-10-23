@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderChaos108/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CoderChaos108/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2662-check-knight-tour-configuration](https://github.com/CoderChaos108/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderChaos108/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CoderChaos108/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2662-check-knight-tour-configuration](https://github.com/CoderChaos108/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderChaos108/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2662-check-knight-tour-configuration](https://github.com/CoderChaos108/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CoderChaos108/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/CoderChaos108/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2662-check-knight-tour-configuration](https://github.com/CoderChaos108/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderChaos108/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/CoderChaos108/LeetCode/tree/master/3561-remove-methods-from-project) |
@@ -1645,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/CoderChaos108/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/CoderChaos108/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/CoderChaos108/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderChaos108/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
