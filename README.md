@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderChaos108/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CoderChaos108/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/CoderChaos108/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CoderChaos108/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CoderChaos108/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CoderChaos108/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderChaos108/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CoderChaos108/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
