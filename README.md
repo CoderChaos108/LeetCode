@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-operations-on-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/CoderChaos108/LeetCode/tree/master/2169-simple-bank-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/CoderChaos108/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2285-design-bitset](https://github.com/CoderChaos108/LeetCode/tree/master/2285-design-bitset) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/CoderChaos108/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CoderChaos108/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/CoderChaos108/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/CoderChaos108/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/CoderChaos108/LeetCode/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/CoderChaos108/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/CoderChaos108/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/CoderChaos108/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CoderChaos108/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -980,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/CoderChaos108/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/CoderChaos108/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/CoderChaos108/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
