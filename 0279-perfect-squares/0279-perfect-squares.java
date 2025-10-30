@@ -16,11 +16,13 @@ class Solution {
             int size=q.size();
             for(int i=0;i<size;i++){
                 int s=q.poll();
-                if(!seen.add(s)||s>n)
+                if(!seen.add(s))
                 continue;
                 if(s==n)
                 return steps;
                 for(int nums:list){
+                    if(s+nums>n)
+                    break;
                     q.add(s+nums);
                 }
             }
