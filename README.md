@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/CoderChaos108/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CoderChaos108/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/CoderChaos108/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/CoderChaos108/LeetCode/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/CoderChaos108/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/CoderChaos108/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
+| [0279-perfect-squares](https://github.com/CoderChaos108/LeetCode/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/CoderChaos108/LeetCode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1609,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/CoderChaos108/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/CoderChaos108/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/CoderChaos108/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/CoderChaos108/LeetCode/tree/master/0399-evaluate-division) |
