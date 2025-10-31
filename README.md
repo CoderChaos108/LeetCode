@@ -1108,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0341-flatten-nested-list-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/CoderChaos108/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/CoderChaos108/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CoderChaos108/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/CoderChaos108/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/CoderChaos108/LeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/0677-map-sum-pairs) |
