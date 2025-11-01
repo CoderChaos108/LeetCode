@@ -18,12 +18,14 @@ class Solution {
         while(head!=null){
             if(!set.contains(head.val)){
                 if(eden==null){
-                    eden=new ListNode(head.val);
+                    eden=head;
+                    eden.next=null;
                     current=eden;
                     head=head.next;
                     continue;
                 }
-                current.next=new ListNode(head.val);
+                current.next=head;
+                current.next.next=null;
                 current=current.next;
             }
             head=head.next;
