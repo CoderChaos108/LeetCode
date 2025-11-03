@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-design-bitset](https://github.com/CoderChaos108/LeetCode/tree/master/2285-design-bitset) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/CoderChaos108/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/CoderChaos108/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/CoderChaos108/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/CoderChaos108/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/CoderChaos108/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CoderChaos108/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bucket Sort
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderChaos108/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/CoderChaos108/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/CoderChaos108/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2379-maximum-total-importance-of-roads](https://github.com/CoderChaos108/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/CoderChaos108/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderChaos108/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Prefix Sum
