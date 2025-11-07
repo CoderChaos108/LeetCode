@@ -3,7 +3,6 @@ class Solution {
 
     long modPow(long base,long exp){
         long result=1;
-        base%=MOD;
         while(exp>0){
             if((exp&1)==1)
                 result=(result*base)%MOD;
