@@ -2,26 +2,28 @@ class Solution {
     int m,n;
     int[][] a;
     public int left(int i,int j){
-        HashSet<Integer> set=new HashSet<>();
+        boolean[] arr=new boolean[51];
         i=i-1;
         j=j-1;
         int c=0;
         while(i>=0&&j>=0){
-            if(set.add(a[i][j]))
+            if(!arr[a[i][j]])
             c++;
+            arr[a[i][j]]=true;
             i--;
             j--;
         }
         return c;
     }
     public int right(int i,int j){
-        HashSet<Integer> set=new HashSet<>();
+        boolean[] arr=new boolean[51];
         i=i+1;
         j=j+1;
         int c=0;
         while(i<m&&j<n){
-            if(set.add(a[i][j]))
+            if(!arr[a[i][j]])
             c++;
+            arr[a[i][j]]=true;
             i++;
             j++;
         }
