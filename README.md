@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/CoderChaos108/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
