@@ -1,6 +1,6 @@
 class Solution {
     public double averageWaitingTime(int[][] customers) {
-        double wait=0;
+        long wait=0;
         int t=0;
         for(int[] a:customers){
             int arrival=a[0];
@@ -10,6 +10,6 @@ class Solution {
             wait=wait+finish-arrival;
             t=finish;
         }
-        return (wait)/(customers.length*1.0);
+        return ((double)wait)/(customers.length*1.0);
     }
 }
