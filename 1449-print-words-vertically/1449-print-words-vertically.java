@@ -7,16 +7,16 @@ class Solution {
         len=Math.max(len,w.length());
         for(int i=0;i<len;i++){
             StringBuilder sb=new StringBuilder();
+            int itr=0;
             for(String w:words){
                 if(i>=w.length())
                 sb.append(" ");
-                else
+                else{
                 sb.append(w.charAt(i));
+                itr=sb.length()-1;
+                }
             }
-            int itr=sb.length()-1;
-            while(sb.charAt(itr)==' '){
-                itr--;
-            }
+            
             sb.setLength(itr+1);
             list.add(sb.toString());
         }
