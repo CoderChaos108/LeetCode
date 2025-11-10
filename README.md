@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/CoderChaos108/LeetCode/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/CoderChaos108/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1032-satisfiability-of-equality-equations](https://github.com/CoderChaos108/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/CoderChaos108/LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0898-transpose-matrix) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/CoderChaos108/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1342-queens-that-can-attack-the-king](https://github.com/CoderChaos108/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1642-water-bottles](https://github.com/CoderChaos108/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
