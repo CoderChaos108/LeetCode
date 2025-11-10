@@ -10,6 +10,6 @@ class Solution {
             wait=wait+finish-arrival;
             t=finish;
         }
-        return (wait*1.0)/(customers.length*1.0);
+        return (wait)/(customers.length*1.0);
     }
 }
