@@ -10,13 +10,14 @@ class Solution {
         found=true;
         return;
         }
-        if(found||seen[k])
+        if(found)
         return;
         seen[k]=true;
         int lim=nums[k];
         for(int i=1;i<=lim;i++){
             if(k+i>=n)
             return;
+            if(!seen[k+i])
             jump(k+i);
         }
     }
