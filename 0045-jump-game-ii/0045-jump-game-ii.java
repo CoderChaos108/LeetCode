@@ -1,15 +1,15 @@
 class Solution {
     public int jump(int[] nums) {
-        int goal=nums.length-1;
-        int steps=0;
-        while(goal!=0){
-            int k=goal;
-            for(int i=goal-1;i>=0;i--){
-                if(nums[i]+i>=k)
-                goal=i;
-            }
-            steps++;
+        int[] dp=new int[nums.length];
+        for(int i=0;i<dp.length;i++){
+            dp[i]=Integer.MAX_VALUE;
         }
-        return steps;
+        dp[0]=0;
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length&&nums[i]+i>=j;j++){
+                dp[j]=Math.min(dp[j],dp[i]+1);
+            }
+        }
+        return dp[nums.length-1];
     }
 }
