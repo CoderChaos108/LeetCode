@@ -2,10 +2,14 @@ class Solution {
     int[][] dp,a;
     int m,n;
     public int dfs(int i,int j){
-        if(i==m||j==n||(a[i][j]==1))
+        if(i==m||j==n)
         return 0;
         if(i==m-1&&j==n-1)
         return 1;
+        if(a[i][j]==1){
+            dp[i][j]=0;
+            return 0;
+        }
         if(dp[i][j]!=0)
         return dp[i][j];
         dp[i][j]=dfs(i,j+1)+dfs(i+1,j);
