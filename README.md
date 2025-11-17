@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/CoderChaos108/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/CoderChaos108/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/CoderChaos108/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/CoderChaos108/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/CoderChaos108/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/CoderChaos108/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/CoderChaos108/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/CoderChaos108/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CoderChaos108/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/CoderChaos108/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CoderChaos108/LeetCode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -1864,6 +1866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/CoderChaos108/LeetCode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CoderChaos108/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
