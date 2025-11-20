@@ -1,19 +1,15 @@
 class Solution {
-    int ans=0;
-    boolean[] seen;
-    int[] nums;
-    public void dfs(int i,int c){
-        if(seen[i])
-        return;
-        ans=Math.max(ans,c);
-        seen[i]=true;
-        dfs(nums[i],c+1);
-    }
     public int arrayNesting(int[] nums) {
-        this.nums=nums;
-        seen=new boolean[nums.length];
+       boolean[] seen=new boolean[nums.length];
+       int ans=0;
         for(int i=0;i<nums.length;i++){
-            dfs(i,1);
+            int n=i;
+            int c=0;
+            while(!seen[n]){
+                seen[n]=true;
+                ans=Math.max(++c,ans);
+                n=nums[n];
+            }
         }
         return ans;
     }
