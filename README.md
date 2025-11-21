@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/CoderChaos108/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/CoderChaos108/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/CoderChaos108/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/CoderChaos108/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
@@ -1777,6 +1780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/CoderChaos108/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/CoderChaos108/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1731-even-odd-tree) |
@@ -1889,4 +1893,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2512-longest-uploaded-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/2512-longest-uploaded-prefix) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
