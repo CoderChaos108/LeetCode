@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/CoderChaos108/LeetCode/tree/master/1803-average-waiting-time) |
+| [1905-count-sub-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1905-count-sub-islands) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CoderChaos108/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1905-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1271,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-throne-inheritance](https://github.com/CoderChaos108/LeetCode/tree/master/1722-throne-inheritance) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1905-count-sub-islands) |
 | [2104-operations-on-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2104-operations-on-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/CoderChaos108/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2201-valid-arrangement-of-pairs](https://github.com/CoderChaos108/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1905-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2512-longest-uploaded-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/2512-longest-uploaded-prefix) |
@@ -1786,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1731-even-odd-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1905-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2104-operations-on-tree](https://github.com/CoderChaos108/LeetCode/tree/master/2104-operations-on-tree) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/CoderChaos108/LeetCode/tree/master/2151-the-time-when-the-network-becomes-idle) |
