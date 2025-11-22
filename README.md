@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderChaos108/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderChaos108/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3336-water-bottles-ii) |
