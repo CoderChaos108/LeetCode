@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0971-shortest-bridge](https://github.com/CoderChaos108/LeetCode/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/CoderChaos108/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/CoderChaos108/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1032-satisfiability-of-equality-equations](https://github.com/CoderChaos108/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/CoderChaos108/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
