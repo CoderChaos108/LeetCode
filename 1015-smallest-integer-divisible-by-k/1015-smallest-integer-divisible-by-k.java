@@ -5,6 +5,11 @@ class Solution {
         HashSet<Integer> seen=new HashSet<Integer>();
         int n=1;
         int size=1;
+        while(n<k){
+            size++;
+            n=n*10+1;
+        }
+        n=n%k;
         while(true){
             if(!seen.add(n))
             return -1;
