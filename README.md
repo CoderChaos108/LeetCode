@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderChaos108/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/CoderChaos108/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/CoderChaos108/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
