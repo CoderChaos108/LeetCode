@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/CoderChaos108/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/CoderChaos108/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/CoderChaos108/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/CoderChaos108/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CoderChaos108/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1971-incremental-memory-leak](https://github.com/CoderChaos108/LeetCode/tree/master/1971-incremental-memory-leak) |
@@ -1117,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/CoderChaos108/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1212-sequential-digits](https://github.com/CoderChaos108/LeetCode/tree/master/1212-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/CoderChaos108/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2080-check-if-move-is-legal](https://github.com/CoderChaos108/LeetCode/tree/master/2080-check-if-move-is-legal) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/CoderChaos108/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
