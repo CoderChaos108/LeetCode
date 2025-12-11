@@ -1,43 +1,28 @@
 class Solution {
     public int countCoveredBuildings(int n, int[][] buildings) {
-        Map<Integer,List<Integer>> rows=new HashMap<>();
-        Map<Integer,List<Integer>> cols=new HashMap<>();
-        Map<Integer,Integer> hm=new HashMap<>();
-        int itr=0;
+        HashMap<Integer,Integer> minR=new HashMap<>();
+        HashMap<Integer,Integer> maxR=new HashMap<>();
+        HashMap<Integer,Integer> minC=new HashMap<>();
+        HashMap<Integer,Integer> maxC=new HashMap<>();
         for(int[] a:buildings){
-            List<Integer> lr=rows.getOrDefault(a[0],new ArrayList<>());
-            List<Integer> lc=cols.getOrDefault(a[1],new ArrayList<>());
-            lr.add(itr);
-            lc.add(itr);
-            rows.put(a[0],lr);
-            cols.put(a[1],lc);
-            itr++;
-        }
-        for(int key:rows.keySet()){
-            List<Integer> list=rows.get(key);
-            if(list.size()<=1)
-            continue;
-            Collections.sort(list,(a,b)->buildings[a][1]-buildings[b][1]);
-            for(int i=0;i<list.size();i++){
-                hm.put(list.get(i),hm.getOrDefault(list.get(i),0)+2);
-            }
-            hm.put(list.get(0),hm.get(list.get(0))-1);
-            hm.put(list.get(list.size()-1),hm.get(list.get(list.size()-1))-1);
-        }
-        for(int key:cols.keySet()){
-            List<Integer> list=cols.get(key);
-            if(list.size()<=1)
-            continue;
-            Collections.sort(list,(a,b)->buildings[a][0]-buildings[b][0]);
-            for(int i=0;i<list.size();i++){
-                hm.put(list.get(i),hm.getOrDefault(list.get(i),0)+2);
-            }
-            hm.put(list.get(0),hm.get(list.get(0))-1);
-            hm.put(list.get(list.size()-1),hm.get(list.get(list.size()-1))-1);
+            if(!minR.containsKey(a[0]))
+                minR.put(a[0],a[1]);
+            if(!maxR.containsKey(a[0]))
+                maxR.put(a[0],a[1]);
+            if(!minC.containsKey(a[1]))
+                minC.put(a[1],a[0]);
+            if(!maxC.containsKey(a[1]))
+                maxC.put(a[1],a[0]);
+            minR.put(a[0],Math.min(minR.get(a[0]),a[1]));
+            maxR.put(a[0],Math.max(maxR.get(a[0]),a[1]));
+            minC.put(a[1],Math.min(minC.get(a[1]),a[0]));
+            maxC.put(a[1],Math.max(maxC.get(a[1]),a[0]));
         }
         int ans=0;
-        for(int i=0;i<buildings.length;i++){
-            if(hm.containsKey(i)&&hm.get(i)==4)
+        for(int[] a:buildings){
+            int r=a[0];
+            int c=a[1];
+            if(c>minR.get(r)&&c<maxR.get(r)&&r>minC.get(c)&&r<maxC.get(c))
             ans++;
         }
         return ans;
