@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3531-count-covered-buildings](https://github.com/CoderChaos108/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CoderChaos108/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/CoderChaos108/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2887-sort-vowels-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
+| [3531-count-covered-buildings](https://github.com/CoderChaos108/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoderChaos108/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/CoderChaos108/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderChaos108/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/CoderChaos108/LeetCode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
