@@ -11,7 +11,9 @@ class Solution {
         int i=0;
         int j=0;
         List<int[]> list=new ArrayList<>();
-        while(i<firstList.length&&j<secondList.length){
+        int n1=firstList.length;
+        int n2=secondList.length;
+        while(i<n1&&j<n2){
             int[] a=firstList[i];
             int[] b=secondList[j];
             int[] inter=interval(a,b);
