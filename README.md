@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0936-rle-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0936-rle-iterator) |
+| [0944-delete-columns-to-make-sorted](https://github.com/CoderChaos108/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0947-online-election](https://github.com/CoderChaos108/LeetCode/tree/master/0947-online-election) |
 | [0960-minimize-malware-spread](https://github.com/CoderChaos108/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0822-unique-morse-code-words](https://github.com/CoderChaos108/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/CoderChaos108/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/CoderChaos108/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/CoderChaos108/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
