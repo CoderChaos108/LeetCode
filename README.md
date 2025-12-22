@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/CoderChaos108/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/CoderChaos108/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/CoderChaos108/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CoderChaos108/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/CoderChaos108/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/CoderChaos108/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/CoderChaos108/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/CoderChaos108/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/CoderChaos108/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/CoderChaos108/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/CoderChaos108/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/CoderChaos108/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/CoderChaos108/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/CoderChaos108/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CoderChaos108/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/CoderChaos108/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/CoderChaos108/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/CoderChaos108/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/CoderChaos108/LeetCode/tree/master/0279-perfect-squares) |
@@ -1086,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CoderChaos108/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/CoderChaos108/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -1567,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/CoderChaos108/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/0386-lexicographical-numbers) |
