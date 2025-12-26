@@ -22,11 +22,9 @@ class Solution {
                 j=i;
             }
         }
-        pen=0;
-        for(int i=0;i<customers.length();i++){
-            if(customers.charAt(i)=='N')
-            pen++;
-        }
+        pen=pre[pre.length-1];
+        if(customers.charAt(pre.length-1)=='N')
+        pen++;
         if(pen<min)
         return customers.length();
         return j;
