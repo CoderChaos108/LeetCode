@@ -25,8 +25,6 @@ class Solution {
             ong=ongoing.peek()[1];
             if(meet!=-1&&ong!=-1)
             i=Math.min(ong,meet);
-            else if(meet==-1&&ong==-1)
-            i++;
             else if(ong==-1)
             i=meet;
             else if(meet==-1)
