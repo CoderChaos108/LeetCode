@@ -1987,4 +1987,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/CoderChaos108/LeetCode/tree/master/0986-interval-list-intersections) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/CoderChaos108/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
