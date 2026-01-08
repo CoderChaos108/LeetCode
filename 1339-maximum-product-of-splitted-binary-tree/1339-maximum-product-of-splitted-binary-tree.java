@@ -15,28 +15,25 @@
  */
 class Solution {
     int sum=0;
-    HashMap<TreeNode,Integer> hm=new HashMap<>();
+    boolean second=false;
     public int dfs(TreeNode node){
         if(node==null)
         return 0;
+        if(!second)
         sum=sum+node.val;
-        hm.put(node,node.val+dfs(node.left)+dfs(node.right));
-        return hm.get(node);
+        int t=node.val+dfs(node.left)+dfs(node.right);
+        long split=sum-t;
+        split=split*t;
+        if(second){
+            ans=Math.max(ans,split);
+        }
+        return t;
     }
     long ans=0;
-    public void dfs2(TreeNode node){
-        if(node==null)
-        return;
-        long part1=hm.get(node);
-        long part2=sum-hm.get(node);
-        long split=part1*part2;
-        ans=Math.max(ans,split);
-        dfs2(node.left);
-        dfs2(node.right);
-    }
     public int maxProduct(TreeNode root) {
         dfs(root);
-        dfs2(root);
+        second=true;
+        dfs(root);
         return (int)(ans%1000000007);
     }
 }
