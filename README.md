@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/CoderChaos108/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/CoderChaos108/LeetCode/tree/master/0835-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/CoderChaos108/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/CoderChaos108/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/CoderChaos108/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1687,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/CoderChaos108/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
@@ -1771,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/CoderChaos108/LeetCode/tree/master/0832-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0955-complete-binary-tree-inserter](https://github.com/CoderChaos108/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
@@ -1851,6 +1855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/CoderChaos108/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/CoderChaos108/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
