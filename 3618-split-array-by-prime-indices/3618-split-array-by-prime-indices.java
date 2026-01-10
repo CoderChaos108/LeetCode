@@ -1,19 +1,23 @@
 class Solution {
     public long splitArray(int[] nums) {
-        long ans=0;
-        long nonPrimes=0;
-        nonPrimes=nums[0];;
-        if(nums.length>1)
-        nonPrimes=nonPrimes+nums[1];
-        for(int i:nums)
-        ans=ans+i;
-        int n=nums.length-1;
-        for(int i=2;i*i<=n;i++){
-            for(int j=i;i*j<=n;j++){
-              nonPrimes=nonPrimes+nums[i*j];
+        long prime=0;
+        long nonPrime=0;
+        for(int n=0;n<nums.length;n++){
+            boolean isPrime=true;
+            for(int i=2;i*i<=n;i++){
+                if(n%i==0){
+                    isPrime=false;
+                    break;
+                }
             }
+            if(n<2){
+                    isPrime=false;
+                }
+            if(isPrime)
+            prime=prime+nums[n];
+            else
+            nonPrime=nonPrime+nums[n];
         }
-        ans=ans-nonPrimes;
-        return Math.abs(ans-nonPrimes);
+        return Math.abs(prime-nonPrime);
     }
 }
