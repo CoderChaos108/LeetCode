@@ -4,9 +4,7 @@ class Solution {
         int x=points[0][0];
         int y=points[0][1];
         for(int[] a:points){
-            while(true){
-                if(x==a[0]&&y==a[1])
-                break;
+            while(x!=a[0]||y!=a[1]){
                 time++;
                 if(y==a[1]){
                     if(x<a[0])
