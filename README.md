@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3295-report-spam-message](https://github.com/CoderChaos108/LeetCode/tree/master/3295-report-spam-message) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -1407,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/CoderChaos108/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
 |  |
