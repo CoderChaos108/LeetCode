@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/CoderChaos108/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CoderChaos108/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/CoderChaos108/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/CoderChaos108/LeetCode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -1407,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/CoderChaos108/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/CoderChaos108/LeetCode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
