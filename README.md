@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/CoderChaos108/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderChaos108/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CoderChaos108/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderChaos108/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoderChaos108/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
