@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderChaos108/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/CoderChaos108/LeetCode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/CoderChaos108/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/CoderChaos108/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -2006,6 +2007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderChaos108/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/CoderChaos108/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Minimum Spanning Tree
 |  |
@@ -2050,4 +2052,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/CoderChaos108/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/CoderChaos108/LeetCode/tree/master/0177-nth-highest-salary) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderChaos108/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
