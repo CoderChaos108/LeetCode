@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/CoderChaos108/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderChaos108/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoderChaos108/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/CoderChaos108/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderChaos108/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/CoderChaos108/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/CoderChaos108/LeetCode/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderChaos108/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderChaos108/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/CoderChaos108/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/CoderChaos108/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1297,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/CoderChaos108/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderChaos108/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
@@ -1663,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
 | [2512-longest-uploaded-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/2512-longest-uploaded-prefix) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderChaos108/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
 | ------- |
