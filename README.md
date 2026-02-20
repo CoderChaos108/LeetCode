@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0789-escape-the-ghosts](https://github.com/CoderChaos108/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/CoderChaos108/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CoderChaos108/LeetCode/tree/master/0817-design-hashmap) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/CoderChaos108/LeetCode/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/CoderChaos108/LeetCode/tree/master/0486-predict-the-winner) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0789-escape-the-ghosts](https://github.com/CoderChaos108/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/CoderChaos108/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/CoderChaos108/LeetCode/tree/master/0900-reordered-power-of-2) |
