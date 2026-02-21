@@ -17,7 +17,7 @@ class Solution {
     }
     HashSet<String> seen=new HashSet<>();
     int found=-1;
-    Set<String> list=new HashSet<>();
+    List<String> list=new ArrayList<>();
     public void backtrack(StringBuilder sb){
         if(!seen.add(sb.toString()))
         return;
