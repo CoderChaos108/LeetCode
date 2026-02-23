@@ -1,28 +1,17 @@
 class Solution {
-    HashSet<String> set=new HashSet<>();
-    public void enumerate(StringBuilder sb,int k){
-        if(sb.length()==k){
-            set.add(sb.toString());
-            return;
-        }
-        sb.append('0');
-        enumerate(sb,k);
-        sb.setLength(sb.length()-1);
-        sb.append('1');
-        enumerate(sb,k);
-        sb.setLength(sb.length()-1);
-    }
+    HashSet<List<Character>> set=new HashSet<>();
     public boolean hasAllCodes(String s, int k) {
-            enumerate(new StringBuilder(),k);
-            int l=0;
+            List<Character> list=new LinkedList<>();
+            for(int i=0;i<k&&i<s.length();i++)
+            list.add(s.charAt(i));
+            set.add(list);
             int r=k;
-            while(r<=s.length()){
-                String str=s.substring(l,r);
-                l++;
+            while(r<s.length()){
+                list.add(s.charAt(r));
+                list.removeFirst();
                 r++;
-                if(set.contains(str))
-                set.remove(str);
+                set.add(list);
             }
-            return set.size()==0;
+            return set.size()==(int)(Math.pow(2,k));
     }
 }
