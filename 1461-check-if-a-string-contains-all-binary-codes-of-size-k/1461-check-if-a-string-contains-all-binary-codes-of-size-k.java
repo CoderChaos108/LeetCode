@@ -1,16 +1,13 @@
 class Solution {
-    HashSet<List<Character>> set=new HashSet<>();
+    HashSet<String> set=new HashSet<>();
     public boolean hasAllCodes(String s, int k) {
-            List<Character> list=new LinkedList<>();
-            for(int i=0;i<k&&i<s.length();i++)
-            list.add(s.charAt(i));
-            set.add(list);
+            int l=0;
             int r=k;
-            while(r<s.length()){
-                list.add(s.charAt(r));
-                list.removeFirst();
+            while(r<=s.length()){
+                String str=s.substring(l,r);
+                l++;
                 r++;
-                set.add(new LinkedList(list));
+                set.add(str);
             }
             return set.size()==(int)(Math.pow(2,k));
     }
