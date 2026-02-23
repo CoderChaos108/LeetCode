@@ -10,7 +10,7 @@ class Solution {
                 list.add(s.charAt(r));
                 list.removeFirst();
                 r++;
-                set.add(list);
+                set.add(new LinkedList(list));
             }
             return set.size()==(int)(Math.pow(2,k));
     }
