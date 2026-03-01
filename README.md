@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/CoderChaos108/LeetCode/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CoderChaos108/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/CoderChaos108/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1314,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CoderChaos108/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1448-maximum-69-number](https://github.com/CoderChaos108/LeetCode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderChaos108/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
