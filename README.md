@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/CoderChaos108/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/CoderChaos108/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/CoderChaos108/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/CoderChaos108/LeetCode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/CoderChaos108/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/CoderChaos108/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -1732,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/CoderChaos108/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/CoderChaos108/LeetCode/tree/master/0319-bulb-switcher) |
 | [3462-vowels-game-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CoderChaos108/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
