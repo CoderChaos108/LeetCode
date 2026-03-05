@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/CoderChaos108/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/CoderChaos108/LeetCode/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/CoderChaos108/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/CoderChaos108/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/CoderChaos108/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/CoderChaos108/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderChaos108/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/CoderChaos108/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderChaos108/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
