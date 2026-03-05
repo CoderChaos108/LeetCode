@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/CoderChaos108/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/CoderChaos108/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/CoderChaos108/LeetCode/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/CoderChaos108/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/CoderChaos108/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/CoderChaos108/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/CoderChaos108/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/CoderChaos108/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/CoderChaos108/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/CoderChaos108/LeetCode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/CoderChaos108/LeetCode/tree/master/0413-arithmetic-slices) |
