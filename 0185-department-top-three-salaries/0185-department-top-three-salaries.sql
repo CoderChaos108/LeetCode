@@ -1,13 +1,11 @@
 WITH new_table AS (
-    SELECT 
-        d.name AS Department,
-        e.name AS Employee,
-        e.salary AS Salary,
-        DENSE_RANK() OVER(PARTITION BY d.name ORDER BY e.salary DESC) AS ranking
-    FROM Employee e
-    LEFT JOIN Department d
-    ON e.departmentId = d.id
+    select dep.name as Department,emp.name as Employee,emp.salary as Salary,
+    dense_rank() over (partition by emp.departmentId order by emp.salary desc) 
+    as rnk
+    from Employee emp
+    left join Department dep
+    on emp.departmentId=dep.id
 )
 SELECT Department, Employee, Salary
 FROM new_table
-WHERE ranking <= 3;
+WHERE rnk <= 3;
