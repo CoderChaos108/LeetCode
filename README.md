@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/CoderChaos108/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CoderChaos108/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/CoderChaos108/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/CoderChaos108/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoderChaos108/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1371,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CoderChaos108/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderChaos108/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3689-maximum-total-subarray-value-i](https://github.com/CoderChaos108/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoderChaos108/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
