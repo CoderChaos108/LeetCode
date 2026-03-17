@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderChaos108/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/CoderChaos108/LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderChaos108/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderChaos108/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderChaos108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderChaos108/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/CoderChaos108/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1338,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/CoderChaos108/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/CoderChaos108/LeetCode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CoderChaos108/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderChaos108/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1386,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/CoderChaos108/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2625-increment-submatrices-by-one](https://github.com/CoderChaos108/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/CoderChaos108/LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderChaos108/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/CoderChaos108/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1527,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/CoderChaos108/LeetCode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderChaos108/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
