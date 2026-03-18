@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
+| [1583-count-unhappy-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1583-count-unhappy-friends) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1268,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/CoderChaos108/LeetCode/tree/master/1449-print-words-vertically) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1583-count-unhappy-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1583-count-unhappy-friends) |
 | [1642-water-bottles](https://github.com/CoderChaos108/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/CoderChaos108/LeetCode/tree/master/1803-average-waiting-time) |
