@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/CoderChaos108/LeetCode/tree/master/1803-average-waiting-time) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/CoderChaos108/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1905-count-sub-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1905-count-sub-islands) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CoderChaos108/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
