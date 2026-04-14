@@ -933,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/CoderChaos108/LeetCode/tree/master/1642-water-bottles) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/CoderChaos108/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CoderChaos108/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/CoderChaos108/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/CoderChaos108/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
