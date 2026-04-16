@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/CoderChaos108/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CoderChaos108/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/CoderChaos108/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3488-closest-equal-element-queries](https://github.com/CoderChaos108/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/CoderChaos108/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3295-report-spam-message](https://github.com/CoderChaos108/LeetCode/tree/master/3295-report-spam-message) |
+| [3488-closest-equal-element-queries](https://github.com/CoderChaos108/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/CoderChaos108/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/CoderChaos108/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/2512-longest-uploaded-prefix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3488-closest-equal-element-queries](https://github.com/CoderChaos108/LeetCode/tree/master/3488-closest-equal-element-queries) |
 ## Two Pointers
 |  |
 | ------- |
