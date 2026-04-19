@@ -1,53 +1,44 @@
 class Solution {
-    int[][][][] dp;
-    int n;
+    int[][][] dp;
 
-    public int robber(int pos,int start,int[] nums,int lastRobbed,int taken){
-        if(pos==n)
+    public int robber(int i,int end,int[] nums,int lastRobbed){
+        if(i>end)
         return 0;
 
-        if(dp[pos][start][lastRobbed][taken]!=-1)
-        return dp[pos][start][lastRobbed][taken];
+        if(dp[i][end][lastRobbed]!=-1)
+        return dp[i][end][lastRobbed];
 
-        int idx=(start+pos)%n;
         int cash=0;
 
         if(lastRobbed==1){
-            cash=robber(pos+1,start,nums,0,taken);
+            cash=robber(i+1,end,nums,0);
         }
         else{
-            int skip=robber(pos+1,start,nums,0,taken);
-            int take=0;
-
-            if(pos!=n-1||taken==0)
-            take=nums[idx]+robber(pos+1,start,nums,1,(pos==0)?1:taken);
-
-            cash=Math.max(skip,take);
+            int take=nums[i]+robber(i+1,end,nums,1);
+            int skip=robber(i+1,end,nums,0);
+            cash=Math.max(take,skip);
         }
 
-        dp[pos][start][lastRobbed][taken]=cash;
+        dp[i][end][lastRobbed]=cash;
         return cash;
     }
 
     public int rob(int[] nums) {
-        n=nums.length;
+        int n=nums.length;
 
         if(n==1)
         return nums[0];
 
-        dp=new int[n][n][2][2];
+        dp=new int[n][n][2];
 
         for(int i=0;i<n;i++)
         for(int j=0;j<n;j++)
         for(int k=0;k<2;k++)
-        for(int l=0;l<2;l++)
-        dp[i][j][k][l]=-1;
+        dp[i][j][k]=-1;
 
-        int ans=0;
+        int a=robber(0,n-2,nums,0);
+        int b=robber(1,n-1,nums,0);
 
-        for(int start=0;start<n;start++)
-        ans=Math.max(ans,robber(0,start,nums,0,0));
-
-        return ans;
+        return Math.max(a,b);
     }
 }
