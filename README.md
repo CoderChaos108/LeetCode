@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1340-jump-game-v](https://github.com/CoderChaos108/LeetCode/tree/master/1340-jump-game-v) |
 | [1342-queens-that-can-attack-the-king](https://github.com/CoderChaos108/LeetCode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/CoderChaos108/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/CoderChaos108/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1340-jump-game-v](https://github.com/CoderChaos108/LeetCode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CoderChaos108/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CoderChaos108/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/CoderChaos108/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/CoderChaos108/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1340-jump-game-v](https://github.com/CoderChaos108/LeetCode/tree/master/1340-jump-game-v) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1387-sort-integers-by-the-power-value](https://github.com/CoderChaos108/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1395-count-number-of-teams](https://github.com/CoderChaos108/LeetCode/tree/master/1395-count-number-of-teams) |
