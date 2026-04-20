@@ -927,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0920-number-of-music-playlists](https://github.com/CoderChaos108/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/CoderChaos108/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0920-number-of-music-playlists](https://github.com/CoderChaos108/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -2227,6 +2229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/CoderChaos108/LeetCode/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/CoderChaos108/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/CoderChaos108/LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CoderChaos108/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
