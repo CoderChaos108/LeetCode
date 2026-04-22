@@ -1042,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/CoderChaos108/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/CoderChaos108/LeetCode/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/CoderChaos108/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderChaos108/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -1462,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/CoderChaos108/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/CoderChaos108/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
