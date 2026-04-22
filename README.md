@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/CoderChaos108/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/CoderChaos108/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/CoderChaos108/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/CoderChaos108/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-design-bitset](https://github.com/CoderChaos108/LeetCode/tree/master/2285-design-bitset) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2429-design-a-food-rating-system](https://github.com/CoderChaos108/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CoderChaos108/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/CoderChaos108/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/CoderChaos108/LeetCode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
@@ -1843,6 +1845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Segment Tree
 |  |
 | ------- |
