@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderChaos108/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2615-sum-of-distances](https://github.com/CoderChaos108/LeetCode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/CoderChaos108/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CoderChaos108/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderChaos108/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/2512-longest-uploaded-prefix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
+| [2615-sum-of-distances](https://github.com/CoderChaos108/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderChaos108/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CoderChaos108/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1472,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/CoderChaos108/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/CoderChaos108/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2615-sum-of-distances](https://github.com/CoderChaos108/LeetCode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/CoderChaos108/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/CoderChaos108/LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
