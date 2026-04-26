@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/CoderChaos108/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/CoderChaos108/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1583-count-unhappy-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1583-count-unhappy-friends) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -1592,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/CoderChaos108/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/CoderChaos108/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -2141,6 +2144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/CoderChaos108/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/CoderChaos108/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/CoderChaos108/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -2291,5 +2295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/CoderChaos108/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
