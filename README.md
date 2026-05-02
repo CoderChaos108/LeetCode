@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/CoderChaos108/LeetCode/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/CoderChaos108/LeetCode/tree/master/0486-predict-the-winner) |
 | [0537-complex-number-multiplication](https://github.com/CoderChaos108/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0788-rotated-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/CoderChaos108/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/CoderChaos108/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0552-student-attendance-record-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0788-rotated-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0920-number-of-music-playlists](https://github.com/CoderChaos108/LeetCode/tree/master/0920-number-of-music-playlists) |
