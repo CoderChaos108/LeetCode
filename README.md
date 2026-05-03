@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/CoderChaos108/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/CoderChaos108/LeetCode/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0822-unique-morse-code-words](https://github.com/CoderChaos108/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/CoderChaos108/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1427,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/CoderChaos108/LeetCode/tree/master/0796-rotate-string) |
 ## Geometry
 |  |
 | ------- |
