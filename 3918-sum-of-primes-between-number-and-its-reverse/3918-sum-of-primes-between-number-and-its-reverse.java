@@ -7,17 +7,19 @@ class Solution {
             r=r*10+t%10;
             t=t/10;
         }
-        for(int i=Math.min(n,r);i<=Math.max(n,r);i++){
-            boolean prime=true;
-            if(i<2)
-            continue;
-            for(int j=2;j*j<=i;j++){
-                if(i%j==0){
-                    prime=false;
-                    break;
-                }
+        int l=Math.min(n,r);
+         r=Math.max(r,n);
+        boolean[] prime=new boolean[r+1];
+        Arrays.fill(prime,true);
+         prime[0]=false;
+        prime[1]=false;
+        for(int i=2;i*i<=r;i++){
+            for(int j=2*i;j<=r;j=j+i){
+                prime[j]=false;
             }
-            if(prime)
+        }
+        for(int i=l;i<=r;i++){
+            if(prime[i])
             ans=ans+i;
         }
         return ans;
