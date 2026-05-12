@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1583-count-unhappy-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1583-count-unhappy-friends) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CoderChaos108/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/CoderChaos108/LeetCode/tree/master/1402-reducing-dishes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/CoderChaos108/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CoderChaos108/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/CoderChaos108/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/CoderChaos108/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CoderChaos108/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1448-maximum-69-number](https://github.com/CoderChaos108/LeetCode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CoderChaos108/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/CoderChaos108/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
