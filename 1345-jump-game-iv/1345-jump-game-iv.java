@@ -2,6 +2,7 @@ class Solution {
     
     int n;
     HashMap<Integer,List<Integer>> hm;
+    HashSet<Integer> set=new HashSet<>();
     public int minJumps(int[] arr) {
         n=arr.length;
          hm=new HashMap<>();
@@ -33,11 +34,13 @@ class Solution {
                     q.add(ni);
                 }
                 for(int ni:list){
+                    if(set.contains(val))
+                    break;
                     if(ni<0||ni>=n)
                     continue;
                     q.add(ni);
                 }
-                hm.put(val,new LinkedList<>());
+                set.add(val);
             }
             steps++;
         }
