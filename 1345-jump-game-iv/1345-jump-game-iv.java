@@ -1,14 +1,14 @@
 class Solution {
     
     int n;
-    HashMap<Integer,HashSet<Integer>> hm;
+    HashMap<Integer,List<Integer>> hm;
     public int minJumps(int[] arr) {
         n=arr.length;
          hm=new HashMap<>();
         int idx=0;
         for(int i:arr){
             if(!hm.containsKey(i))
-            hm.put(i,new HashSet<>());
+            hm.put(i,new ArrayList<>());
             hm.get(i).add(idx++);
         }
         Queue<Integer> q=new LinkedList<>();
@@ -23,7 +23,7 @@ class Solution {
                 return steps;
                 int val=arr[i];
                 int[] moves={i-1,i+1};
-                HashSet<Integer> list=hm.get(val);
+                List<Integer> list=hm.get(val);
                 if(seen[i])
                 continue;
                 seen[i]=true;
@@ -37,7 +37,7 @@ class Solution {
                     continue;
                     q.add(ni);
                 }
-                hm.put(val,new HashSet<>());
+                hm.put(val,new LinkedList<>());
             }
             steps++;
         }
