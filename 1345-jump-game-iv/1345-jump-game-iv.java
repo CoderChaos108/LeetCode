@@ -2,7 +2,6 @@ class Solution {
     
     int n;
     HashMap<Integer,List<Integer>> hm;
-    HashSet<Integer> set=new HashSet<>();
     public int minJumps(int[] arr) {
         n=arr.length;
          hm=new HashMap<>();
@@ -24,7 +23,6 @@ class Solution {
                 return steps;
                 int val=arr[i];
                 int[] moves={i-1,i+1};
-                List<Integer> list=hm.get(val);
                 if(seen[i])
                 continue;
                 seen[i]=true;
@@ -33,14 +31,16 @@ class Solution {
                     continue;
                     q.add(ni);
                 }
+                if(hm.containsKey(val)){
+                    List<Integer> list=hm.get(val);
                 for(int ni:list){
-                    if(set.contains(val))
-                    break;
                     if(ni<0||ni>=n)
                     continue;
                     q.add(ni);
                 }
-                set.add(val);
+                }
+                hm.remove(val);
+                
             }
             steps++;
         }
