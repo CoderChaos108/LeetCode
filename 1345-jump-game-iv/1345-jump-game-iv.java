@@ -15,6 +15,7 @@ class Solution {
         boolean[] seen=new boolean[n];
         int steps=0;
         q.add(0);
+        seen[0]=true;
         while(!q.isEmpty()){
             int size=q.size();
             for(int id=0;id<size;id++){
@@ -23,20 +24,23 @@ class Solution {
                 return steps;
                 int val=arr[i];
                 int[] moves={i-1,i+1};
-                if(seen[i])
-                continue;
-                seen[i]=true;
                 for(int ni:moves){
                     if(ni<0||ni>=n)
                     continue;
+                    if(seen[ni])
+                continue;
                     q.add(ni);
+                    seen[ni]=true;
                 }
                 if(hm.containsKey(val)){
                     List<Integer> list=hm.get(val);
                 for(int ni:list){
                     if(ni<0||ni>=n)
                     continue;
+                    if(seen[ni])
+                continue;
                     q.add(ni);
+                    seen[ni]=true;
                 }
                 }
                 hm.remove(val);
