@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/CoderChaos108/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/CoderChaos108/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/CoderChaos108/LeetCode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderChaos108/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2512-longest-uploaded-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/2512-longest-uploaded-prefix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/CoderChaos108/LeetCode/tree/master/2540-minimum-common-value) |
 | [2587-design-memory-allocator](https://github.com/CoderChaos108/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2615-sum-of-distances](https://github.com/CoderChaos108/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderChaos108/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CoderChaos108/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CoderChaos108/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2512-longest-uploaded-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/2512-longest-uploaded-prefix) |
+| [2540-minimum-common-value](https://github.com/CoderChaos108/LeetCode/tree/master/2540-minimum-common-value) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3488-closest-equal-element-queries](https://github.com/CoderChaos108/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CoderChaos108/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/CoderChaos108/LeetCode/tree/master/2540-minimum-common-value) |
 | [2938-separate-black-and-white-balls](https://github.com/CoderChaos108/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
