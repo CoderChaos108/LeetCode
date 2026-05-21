@@ -1024,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3618-split-array-by-prime-indices](https://github.com/CoderChaos108/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CoderChaos108/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3765-complete-prime-number](https://github.com/CoderChaos108/LeetCode/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CoderChaos108/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/CoderChaos108/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -1428,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/CoderChaos108/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3713-longest-balanced-substring-i](https://github.com/CoderChaos108/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3765-complete-prime-number](https://github.com/CoderChaos108/LeetCode/tree/master/3765-complete-prime-number) |
 | [3849-equal-sum-grid-partition-i](https://github.com/CoderChaos108/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
@@ -1437,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3618-split-array-by-prime-indices](https://github.com/CoderChaos108/LeetCode/tree/master/3618-split-array-by-prime-indices) |
+| [3765-complete-prime-number](https://github.com/CoderChaos108/LeetCode/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CoderChaos108/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting Sort
 |  |
