@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CoderChaos108/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderChaos108/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/CoderChaos108/LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/CoderChaos108/LeetCode/tree/master/2938-separate-black-and-white-balls) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/CoderChaos108/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
@@ -1899,6 +1902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderChaos108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
 |  |
 | ------- |
