@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/CoderChaos108/LeetCode/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/CoderChaos108/LeetCode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/CoderChaos108/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/CoderChaos108/LeetCode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/CoderChaos108/LeetCode/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/CoderChaos108/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/CoderChaos108/LeetCode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/CoderChaos108/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/CoderChaos108/LeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/CoderChaos108/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1514,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CoderChaos108/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/CoderChaos108/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/CoderChaos108/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/CoderChaos108/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/CoderChaos108/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
