@@ -6,6 +6,7 @@ class Solution {
             prefix[i]=s;
             s=s+nums[i];
         }
+        
         prefix[nums.length]=s;
         HashMap<Integer,List<Integer>> hm=new HashMap<>();
         for(int i=0;i<prefix.length;i++){
@@ -22,13 +23,22 @@ class Solution {
             if(!hm.containsKey(o))
             continue;
             List<Integer> list=hm.get(o);
-            for(int j=0;j<list.size();j++){
-                if(list.get(j)>i){
-                    ans=ans+(list.size()-j);
-                    break;
+            int l=0;
+            int res=list.size();
+            int r=list.size()-1;
+            while(l<=r){
+                int m=(l+r)/2;
+                if(list.get(m)>i){
+                    res=m;
+                    r=m-1;
+                }
+                else{
+                    l=m+1;
                 }
             }
+            ans=ans+(list.size()-res);
         }
+
         return ans;
     }
 }
