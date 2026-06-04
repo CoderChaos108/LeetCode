@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/CoderChaos108/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0638-shopping-offers](https://github.com/CoderChaos108/LeetCode/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/CoderChaos108/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/CoderChaos108/LeetCode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/CoderChaos108/LeetCode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/CoderChaos108/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0552-student-attendance-record-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0552-student-attendance-record-ii) |
+| [0638-shopping-offers](https://github.com/CoderChaos108/LeetCode/tree/master/0638-shopping-offers) |
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/CoderChaos108/LeetCode/tree/master/0638-shopping-offers) |
 | [0756-pyramid-transition-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0800-letter-case-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -1357,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/CoderChaos108/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0638-shopping-offers](https://github.com/CoderChaos108/LeetCode/tree/master/0638-shopping-offers) |
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/CoderChaos108/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -2302,6 +2307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/CoderChaos108/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/CoderChaos108/LeetCode/tree/master/0638-shopping-offers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Combinatorics
