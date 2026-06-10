@@ -1015,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/CoderChaos108/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/CoderChaos108/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2376-count-special-integers](https://github.com/CoderChaos108/LeetCode/tree/master/2376-count-special-integers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/CoderChaos108/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/CoderChaos108/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderChaos108/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2078-maximum-compatibility-score-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderChaos108/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2376-count-special-integers](https://github.com/CoderChaos108/LeetCode/tree/master/2376-count-special-integers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/CoderChaos108/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2466-count-ways-to-build-good-strings](https://github.com/CoderChaos108/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2745-construct-the-longest-new-string](https://github.com/CoderChaos108/LeetCode/tree/master/2745-construct-the-longest-new-string) |
