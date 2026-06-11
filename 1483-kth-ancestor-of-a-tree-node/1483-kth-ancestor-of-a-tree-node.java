@@ -1,7 +1,7 @@
 class TreeAncestor {
     int[][] up;
     public TreeAncestor(int n, int[] parent) {
-        up=new int[n][(int)Math.floor(Math.log(n))+1];
+        up=new int[n][(int)Math.floor(Math.log(n)/Math.log(2))+1];
         int log=up[0].length;
         for(int i=0;i<n;i++)
         up[i][0]=parent[i];
@@ -19,7 +19,7 @@ class TreeAncestor {
         return -1;
         if(k==0)
         return node;
-        int log=(int)Math.floor(Math.log(k));
+        int log=(int)Math.floor(Math.log(k)/Math.log(2));
         int red=(int)(Math.pow(2,log));
         return lca(up[node][log],k-red);
     }
