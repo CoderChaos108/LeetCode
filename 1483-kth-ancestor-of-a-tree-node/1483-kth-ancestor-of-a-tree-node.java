@@ -19,8 +19,8 @@ class TreeAncestor {
         return -1;
         if(k==0)
         return node;
-        int log=(int)Math.floor(Math.log(k)/Math.log(2));
-        int red=(int)(Math.pow(2,log));
+        int log = 31 - Integer.numberOfLeadingZeros(k);
+    int red = 1 << log;
         return lca(up[node][log],k-red);
     }
     public int getKthAncestor(int node, int k) {
