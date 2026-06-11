@@ -52,6 +52,19 @@ class Solution {
         }
         return Math.max(1,parent[u]);
     }
+    int[][] dp;
+    public int find(int i,int parity){
+        if(i==n-1)
+        return parity;
+        if(dp[i][parity]!=-1)
+        return dp[i][parity];
+        long res=find(i+1,0);
+        res=res%mod;
+        res=res+find(i+1,1);
+        res=res%mod;
+        dp[i][parity]=(int)res;
+        return (int)res;
+    }
     public int[] assignEdgeWeights(int[][] edges, int[][] queries) {
         n=edges.length+1;
         level=new int[n+1];
@@ -66,6 +79,10 @@ class Solution {
         }
         parent=new int[n+1];
         builder(1,-1,0);
+        dp=new int[n][2];
+        for(int i=0;i<n;i++)
+        for(int j=0;j<2;j++)
+        dp[i][j]=-1;
         int log=(int)Math.floor(Math.log(n)/Math.log(2));
         up=new int[n+1][log+1];
         for(int i=1;i<=n;i++)
@@ -78,6 +95,7 @@ class Solution {
                 up[i][j]=-1;
             }
         }
+        find(0,0);
         int q=queries.length;
         int[] a=new int[q];
         for(int i=0;i<q;i++){
@@ -85,10 +103,10 @@ class Solution {
             int v=queries[i][1];
             int l=lca(u,v);
             int x=level[u]+level[v]-2*level[l];
-            int ans=pow(2,x-1);
+            int ans=dp[n-x-1][0];
             if(u==v)
             ans=0;
-            a[i]=(int)ans;
+            a[i]=ans;
         }
         return a;
     }
