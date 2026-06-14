@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/CoderChaos108/LeetCode/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/CoderChaos108/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/CoderChaos108/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/CoderChaos108/LeetCode/tree/master/0695-max-area-of-island) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/CoderChaos108/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/CoderChaos108/LeetCode/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/CoderChaos108/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/CoderChaos108/LeetCode/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CoderChaos108/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -877,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/CoderChaos108/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/CoderChaos108/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -1706,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/CoderChaos108/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/CoderChaos108/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/CoderChaos108/LeetCode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderChaos108/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
