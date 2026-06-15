@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/CoderChaos108/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CoderChaos108/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1270,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/CoderChaos108/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/CoderChaos108/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
