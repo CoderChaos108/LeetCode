@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CoderChaos108/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0753-open-the-lock](https://github.com/CoderChaos108/LeetCode/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/CoderChaos108/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-sliding-puzzle](https://github.com/CoderChaos108/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0789-escape-the-ghosts](https://github.com/CoderChaos108/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/CoderChaos108/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/CoderChaos108/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/CoderChaos108/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/CoderChaos108/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/CoderChaos108/LeetCode/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CoderChaos108/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/CoderChaos108/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/CoderChaos108/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -883,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/CoderChaos108/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/CoderChaos108/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/CoderChaos108/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
