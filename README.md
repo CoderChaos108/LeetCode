@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1732-find-the-highest-altitude](https://github.com/CoderChaos108/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/CoderChaos108/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/CoderChaos108/LeetCode/tree/master/1803-average-waiting-time) |
@@ -1566,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/CoderChaos108/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/CoderChaos108/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/CoderChaos108/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/CoderChaos108/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
