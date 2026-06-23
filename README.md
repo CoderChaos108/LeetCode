@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/CoderChaos108/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/CoderChaos108/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/CoderChaos108/LeetCode/tree/master/0400-nth-digit) |
 | [0483-smallest-good-base](https://github.com/CoderChaos108/LeetCode/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/CoderChaos108/LeetCode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/CoderChaos108/LeetCode/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/CoderChaos108/LeetCode/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/CoderChaos108/LeetCode/tree/master/0447-number-of-boomerangs) |
