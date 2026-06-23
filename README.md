@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/CoderChaos108/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/CoderChaos108/LeetCode/tree/master/1104-coloring-a-border) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/CoderChaos108/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/CoderChaos108/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CoderChaos108/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/CoderChaos108/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/CoderChaos108/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/CoderChaos108/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/CoderChaos108/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1340-jump-game-v](https://github.com/CoderChaos108/LeetCode/tree/master/1340-jump-game-v) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/CoderChaos108/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/CoderChaos108/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/CoderChaos108/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/CoderChaos108/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CoderChaos108/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CoderChaos108/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/CoderChaos108/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CoderChaos108/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/CoderChaos108/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/CoderChaos108/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/CoderChaos108/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1211-iterator-for-combination](https://github.com/CoderChaos108/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CoderChaos108/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/CoderChaos108/LeetCode/tree/master/0947-online-election) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/CoderChaos108/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/CoderChaos108/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderChaos108/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/CoderChaos108/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
