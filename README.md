@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/CoderChaos108/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/CoderChaos108/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/CoderChaos108/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/CoderChaos108/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/CoderChaos108/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/CoderChaos108/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -1142,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/CoderChaos108/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/CoderChaos108/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0920-number-of-music-playlists](https://github.com/CoderChaos108/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
@@ -2020,6 +2023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/CoderChaos108/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/CoderChaos108/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
