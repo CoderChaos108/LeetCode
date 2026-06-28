@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/CoderChaos108/LeetCode/tree/master/1803-average-waiting-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/CoderChaos108/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/CoderChaos108/LeetCode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/CoderChaos108/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/CoderChaos108/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CoderChaos108/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1905-count-sub-islands](https://github.com/CoderChaos108/LeetCode/tree/master/1905-count-sub-islands) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CoderChaos108/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/CoderChaos108/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/CoderChaos108/LeetCode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/CoderChaos108/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/CoderChaos108/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/CoderChaos108/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1591,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/CoderChaos108/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1833-maximum-ice-cream-bars](https://github.com/CoderChaos108/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/CoderChaos108/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CoderChaos108/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2182-construct-string-with-repeat-limit](https://github.com/CoderChaos108/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
