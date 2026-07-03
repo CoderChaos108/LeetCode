@@ -1,33 +1,29 @@
 class Solution {
-    static boolean check(String str){
-        String t="";
-        if(str.length()%2==0){
-            for(int i=str.length()-1;i>=str.length()/2;i--){
-                if(str.charAt(i)!=str.charAt(str.length()-i-1))
-                return false;
-            }           
-        }
-        else{
-            for(int i=str.length()-1;i>str.length()/2;i--){
-                if(str.charAt(i)!=str.charAt(str.length()-i-1))
-                return false;
-            }     
-        }
-        return true;
-    }
+    boolean[][] dp;
+    int n;
     public String longestPalindrome(String s) {
-        String l=s.charAt(0)+"";
-        for(int i=0;i<s.length()-l.length();i++){
-            for(int j=i+1;j<s.length();j++){
-                if(j-i+1<=l.length())
+        n=s.length();
+        dp=new boolean[n][n];
+            String ans="";
+        for(int k=0;k<n;k++){
+            for(int i=0;i<n;i++){
+                int j=i+k;
+                if(j>=n)
                 continue;
-                if(check(s.substring(i,j+1))==true){
-                l=s.substring(i,j+1);
+                char l=s.charAt(i);
+                char r=s.charAt(j);
+                if(l==r){
+                    if(j-i+1<=2){
+                        dp[i][j]=true;
+                    }
+                    else{
+                        dp[i][j]=dp[i+1][j-1];
+                    }
+                }
+                if(dp[i][j])
+                ans=s.substring(i,j+1);
             }
-
         }
-       
+        return ans;
     }
-    return l;
-}
 }
