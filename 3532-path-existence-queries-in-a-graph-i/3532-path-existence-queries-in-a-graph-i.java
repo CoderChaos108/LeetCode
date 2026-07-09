@@ -28,6 +28,7 @@ class Solution {
                 parent[j]=findParent(i);
                 j--;
             }
+            i=Math.max(res-1,i);
         }
         boolean[] ans=new boolean[queries.length];
         for(int i=0;i<queries.length;i++){
