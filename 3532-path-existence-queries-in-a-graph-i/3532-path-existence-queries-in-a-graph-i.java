@@ -9,26 +9,11 @@ class Solution {
         parent=new int[n];
         for(int i=0;i<n;i++)
         parent[i]=i;
-        for(int i=0;i<n;i++){
-            int lim=nums[i]+maxDiff;
-            int l=i;
-            int r=n-1;
-            int res=i;
-            while(l<=r){
-                int m=(l+r)/2;
-                if(nums[m]<=lim){
-                    l=m+1;
-                    res=m;
-                }
-                else
-                r=m-1;
+        for(int i=1;i<n;i++){
+            int lim=nums[i-1]+maxDiff;
+            if(nums[i]<=lim){
+                parent[findParent(i)]=findParent(i-1);
             }
-            int j=res;
-            while(findParent(j)!=findParent(i)){
-                parent[findParent(j)]=findParent(i);
-                j--;
-            }
-            i=Math.max(res-1,i);
         }
         boolean[] ans=new boolean[queries.length];
         for(int i=0;i<queries.length;i++){
