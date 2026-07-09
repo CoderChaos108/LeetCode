@@ -25,7 +25,7 @@ class Solution {
             }
             int j=res;
             while(findParent(j)!=findParent(i)){
-                parent[j]=findParent(i);
+                parent[findParent(j)]=findParent(i);
                 j--;
             }
             i=Math.max(res-1,i);
