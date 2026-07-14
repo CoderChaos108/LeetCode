@@ -1040,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/CoderChaos108/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/CoderChaos108/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/CoderChaos108/LeetCode/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/CoderChaos108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CoderChaos108/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/CoderChaos108/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -1161,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/CoderChaos108/LeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/CoderChaos108/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/CoderChaos108/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/CoderChaos108/LeetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/CoderChaos108/LeetCode/tree/master/0403-frog-jump) |
@@ -2070,6 +2072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/CoderChaos108/LeetCode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/CoderChaos108/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3462-vowels-game-in-a-string) |
