@@ -1124,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CoderChaos108/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderChaos108/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3618-split-array-by-prime-indices](https://github.com/CoderChaos108/LeetCode/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/CoderChaos108/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CoderChaos108/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3765-complete-prime-number](https://github.com/CoderChaos108/LeetCode/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CoderChaos108/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1563,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3618-split-array-by-prime-indices](https://github.com/CoderChaos108/LeetCode/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/CoderChaos108/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/CoderChaos108/LeetCode/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CoderChaos108/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting Sort
