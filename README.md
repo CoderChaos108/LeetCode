@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CoderChaos108/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/CoderChaos108/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CoderChaos108/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/CoderChaos108/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderChaos108/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/CoderChaos108/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CoderChaos108/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CoderChaos108/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1971-incremental-memory-leak](https://github.com/CoderChaos108/LeetCode/tree/master/1971-incremental-memory-leak) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CoderChaos108/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderChaos108/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1565,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/CoderChaos108/LeetCode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CoderChaos108/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CoderChaos108/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/CoderChaos108/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
