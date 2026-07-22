@@ -21,6 +21,8 @@ class Solution {
         n=nums.length;        
         for(int i:nums)
         s=s+i;
+        if(s%2!=0)
+        return false;
         dp=new int[n][s+1];
         return find(0,s,nums);
     }
