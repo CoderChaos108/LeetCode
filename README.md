@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/CoderChaos108/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/CoderChaos108/LeetCode/tree/master/0879-profitable-schemes) |
 | [0881-loud-and-rich](https://github.com/CoderChaos108/LeetCode/tree/master/0881-loud-and-rich) |
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0894-random-pick-with-blacklist](https://github.com/CoderChaos108/LeetCode/tree/master/0894-random-pick-with-blacklist) |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/CoderChaos108/LeetCode/tree/master/0813-largest-sum-of-averages) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/CoderChaos108/LeetCode/tree/master/0879-profitable-schemes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/CoderChaos108/LeetCode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0920-number-of-music-playlists](https://github.com/CoderChaos108/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1013-fibonacci-number) |
