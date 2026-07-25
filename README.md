@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/CoderChaos108/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/CoderChaos108/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/CoderChaos108/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/CoderChaos108/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoderChaos108/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/CoderChaos108/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/CoderChaos108/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/CoderChaos108/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CoderChaos108/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
