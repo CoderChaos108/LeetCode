@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderChaos108/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/CoderChaos108/LeetCode/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/CoderChaos108/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/CoderChaos108/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/CoderChaos108/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/CoderChaos108/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/CoderChaos108/LeetCode/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CoderChaos108/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/CoderChaos108/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/CoderChaos108/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/CoderChaos108/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/CoderChaos108/LeetCode/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/CoderChaos108/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderChaos108/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
 | ------- |
