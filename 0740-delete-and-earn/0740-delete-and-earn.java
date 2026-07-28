@@ -6,7 +6,10 @@ class Solution {
         return 0;
         if(dp[i]!=-1)
         return dp[i];
-        int skip=find(i+1,a);
+        int k=i;
+        while(k<n&&a[k]==a[i])
+        k++;
+        int skip=find(k,a);
         int take=0;
         int j=i;
         while(j<n&&a[j]==a[i])
