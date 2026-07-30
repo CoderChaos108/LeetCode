@@ -10,7 +10,7 @@ class Solution {
         for(char key:hm.keySet()){
             list.add(hm.get(key));
         }
-        Collections.sort(list);
+       
         for(int j=0;j<list.size();j++){
             int push=j/8+1;
             ans=ans+push*list.get(j);
