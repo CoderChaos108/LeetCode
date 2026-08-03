@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1395-count-number-of-teams](https://github.com/CoderChaos108/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/CoderChaos108/LeetCode/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1406-stone-game-iii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/CoderChaos108/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/CoderChaos108/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/CoderChaos108/LeetCode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CoderChaos108/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CoderChaos108/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CoderChaos108/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/CoderChaos108/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1395-count-number-of-teams](https://github.com/CoderChaos108/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/CoderChaos108/LeetCode/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/CoderChaos108/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/CoderChaos108/LeetCode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -2121,6 +2124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/CoderChaos108/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/CoderChaos108/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
@@ -2560,4 +2564,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/CoderChaos108/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
