@@ -1,19 +1,21 @@
 class Solution {
     public int maximumBags(int[] capacity, int[] rocks, int additionalRocks) {
-        List<Integer> list=new ArrayList<>();
-        int n=rocks.length;
+        int n=capacity.length;
+        int[] need=new int[n];
+
         for(int i=0;i<n;i++){
-            list.add(capacity[i]-rocks[i]);
+            need[i]=capacity[i]-rocks[i];
         }
-        Collections.sort(list);
+
+        Arrays.sort(need);
+
         int ans=0;
-        int left=additionalRocks;
-        for(int i=0;i<n;i++){
-            if(list.get(i)>left)
-            break;
+        for(int x:need){
+            if(x>additionalRocks) break;
+            additionalRocks-=x;
             ans++;
-            left=left-list.get(i);
         }
+
         return ans;
     }
 }
