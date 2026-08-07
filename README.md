@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1306-jump-game-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/CoderChaos108/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-path-with-maximum-gold](https://github.com/CoderChaos108/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1331-rank-transform-of-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/CoderChaos108/LeetCode/tree/master/1340-jump-game-v) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/CoderChaos108/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/CoderChaos108/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/CoderChaos108/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1340-jump-game-v](https://github.com/CoderChaos108/LeetCode/tree/master/1340-jump-game-v) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/CoderChaos108/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1387-sort-integers-by-the-power-value](https://github.com/CoderChaos108/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -1679,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1024-video-stitching](https://github.com/CoderChaos108/LeetCode/tree/master/1024-video-stitching) |
 | [1285-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/CoderChaos108/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1382-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/CoderChaos108/LeetCode/tree/master/1402-reducing-dishes) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderChaos108/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
