@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2906-construct-product-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderChaos108/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/CoderChaos108/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/CoderChaos108/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/CoderChaos108/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CoderChaos108/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/CoderChaos108/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1898,6 +1900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/CoderChaos108/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CoderChaos108/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/CoderChaos108/LeetCode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderChaos108/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderChaos108/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
