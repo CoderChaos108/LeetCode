@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/CoderChaos108/LeetCode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/CoderChaos108/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/CoderChaos108/LeetCode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/CoderChaos108/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/CoderChaos108/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0433-minimum-genetic-mutation](https://github.com/CoderChaos108/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -1351,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/CoderChaos108/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/CoderChaos108/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/CoderChaos108/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/CoderChaos108/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderChaos108/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/CoderChaos108/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/CoderChaos108/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/CoderChaos108/LeetCode/tree/master/0739-daily-temperatures) |
@@ -1679,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/CoderChaos108/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/CoderChaos108/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/CoderChaos108/LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/CoderChaos108/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CoderChaos108/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
