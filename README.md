@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/CoderChaos108/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/CoderChaos108/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/CoderChaos108/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/CoderChaos108/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/CoderChaos108/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/CoderChaos108/LeetCode/tree/master/0525-contiguous-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CoderChaos108/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/CoderChaos108/LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/CoderChaos108/LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/CoderChaos108/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderChaos108/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/CoderChaos108/LeetCode/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/CoderChaos108/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderChaos108/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/CoderChaos108/LeetCode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/CoderChaos108/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderChaos108/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/CoderChaos108/LeetCode/tree/master/0744-network-delay-time) |
@@ -1695,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/CoderChaos108/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CoderChaos108/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/CoderChaos108/LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/CoderChaos108/LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/CoderChaos108/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/CoderChaos108/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/CoderChaos108/LeetCode/tree/master/0611-valid-triangle-number) |
