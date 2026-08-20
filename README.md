@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderChaos108/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/CoderChaos108/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderChaos108/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/CoderChaos108/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderChaos108/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/CoderChaos108/LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -1610,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderChaos108/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/CoderChaos108/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/CoderChaos108/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/CoderChaos108/LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3336-water-bottles-ii](https://github.com/CoderChaos108/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/CoderChaos108/LeetCode/tree/master/3379-transformed-array) |
