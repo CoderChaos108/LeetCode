@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/CoderChaos108/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/CoderChaos108/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/CoderChaos108/LeetCode/tree/master/0861-flipping-an-image) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0874-walking-robot-simulation](https://github.com/CoderChaos108/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/CoderChaos108/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/CoderChaos108/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0794-swim-in-rising-water](https://github.com/CoderChaos108/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderChaos108/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/CoderChaos108/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1405-longest-happy-string](https://github.com/CoderChaos108/LeetCode/tree/master/1405-longest-happy-string) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/CoderChaos108/LeetCode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-largest-sum-of-averages](https://github.com/CoderChaos108/LeetCode/tree/master/0813-largest-sum-of-averages) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-longest-mountain-in-array](https://github.com/CoderChaos108/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/CoderChaos108/LeetCode/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/CoderChaos108/LeetCode/tree/master/0879-profitable-schemes) |
@@ -1717,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/CoderChaos108/LeetCode/tree/master/0649-dota2-senate) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/CoderChaos108/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/CoderChaos108/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CoderChaos108/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0891-score-after-flipping-matrix](https://github.com/CoderChaos108/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [1024-video-stitching](https://github.com/CoderChaos108/LeetCode/tree/master/1024-video-stitching) |
 | [1285-balance-a-binary-search-tree](https://github.com/CoderChaos108/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
