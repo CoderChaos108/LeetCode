@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/CoderChaos108/LeetCode/tree/master/1582-design-browser-history) |
 | [1583-count-unhappy-friends](https://github.com/CoderChaos108/LeetCode/tree/master/1583-count-unhappy-friends) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1642-furthest-building-you-can-reach](https://github.com/CoderChaos108/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CoderChaos108/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CoderChaos108/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderChaos108/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderChaos108/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1642-furthest-building-you-can-reach](https://github.com/CoderChaos108/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-path-with-minimum-effort](https://github.com/CoderChaos108/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1753-maximum-score-from-removing-stones](https://github.com/CoderChaos108/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1955-seat-reservation-manager](https://github.com/CoderChaos108/LeetCode/tree/master/1955-seat-reservation-manager) |
@@ -1736,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/CoderChaos108/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1448-maximum-69-number](https://github.com/CoderChaos108/LeetCode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/CoderChaos108/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1642-furthest-building-you-can-reach](https://github.com/CoderChaos108/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CoderChaos108/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CoderChaos108/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderChaos108/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
