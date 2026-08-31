@@ -10,11 +10,33 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        ListNode last=head;
-        ListNode curr=head.next;
-        ListNode post=curr.next;
-        int f=-1;
-        int l=0;
-        while()
+        ListNode l=head;
+        ListNode m=head.next;
+        ListNode r=head.next.next;        
+        int itr=1;        
+        int firstItr=-1;        
+        int lastItr=-1;         
+        int min=Integer.MAX_VALUE;   
+        while(r!=null){
+            int lv=l.val;
+            int mv=m.val;
+            int rv=r.val;
+            if((lv<mv&&rv<mv)||(lv>mv&&rv>mv)){
+                if(firstItr==-1){
+                    firstItr=itr;
+                } else {
+                    min=Math.min(min,itr-lastItr);
+                }
+                lastItr=itr;
+            }
+            
+            l=l.next;
+            m=m.next;
+            r=r.next;
+            itr++;
+        }      
+        if(firstItr==-1||firstItr==lastItr)
+        return new int[]{-1,-1};     
+        return new int[]{min,lastItr-firstItr};
     }
 }
